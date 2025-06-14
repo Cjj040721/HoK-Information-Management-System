@@ -1,0 +1,162 @@
+[
+  {
+    "heroName": "Mulan",
+    "games": 11,
+    "wins": 2,
+    "winRate": 0.182,
+    "pickRate": 0.733,
+    "banRate": 0
+  },
+  {
+    "heroName": "Zhao Yun",
+    "games": 8,
+    "wins": 2,
+    "winRate": 0.25,
+    "pickRate": 0.533,
+    "banRate": 0
+  },
+  {
+    "heroName": "Miyamoto Musashi",
+    "games": 7,
+    "wins": 4,
+    "winRate": 0.571,
+    "pickRate": 0.467,
+    "banRate": 0
+  },
+  {
+    "heroName": "Lu Bu",
+    "games": 7,
+    "wins": 3,
+    "winRate": 0.429,
+    "pickRate": 0.467,
+    "banRate": 0
+  },
+  {
+    "heroName": "Hou Yi",
+    "games": 11,
+    "wins": 7,
+    "winRate": 0.636,
+    "pickRate": 0.733,
+    "banRate": 0
+  },
+  {
+    "heroName": "Angela",
+    "games": 9,
+    "wins": 4,
+    "winRate": 0.444,
+    "pickRate": 0.6,
+    "banRate": 0
+  },
+  {
+    "heroName": "Diaochan",
+    "games": 9,
+    "wins": 2,
+    "winRate": 0.222,
+    "pickRate": 0.6,
+    "banRate": 0
+  },
+  {
+    "heroName": "Zhang Fei",
+    "games": 6,
+    "wins": 4,
+    "winRate": 0.667,
+    "pickRate": 0.4,
+    "banRate": 0
+  },
+  {
+    "heroName": "Marco Polo",
+    "games": 9,
+    "wins": 5,
+    "winRate": 0.556,
+    "pickRate": 0.6,
+    "banRate": 0
+  },
+  {
+    "heroName": "Sun Wukong",
+    "games": 7,
+    "wins": 4,
+    "winRate": 0.571,
+    "pickRate": 0.467,
+    "banRate": 0
+  },
+  {
+    "heroName": "Li Bai",
+    "games": 7,
+    "wins": 5,
+    "winRate": 0.714,
+    "pickRate": 0.467,
+    "banRate": 0
+  },
+  {
+    "heroName": "Gongsun Li",
+    "games": 7,
+    "wins": 5,
+    "winRate": 0.714,
+    "pickRate": 0.467,
+    "banRate": 0
+  },
+  {
+    "heroName": "Arthur",
+    "games": 5,
+    "wins": 3,
+    "winRate": 0.6,
+    "pickRate": 0.333,
+    "banRate": 0
+  },
+  {
+    "heroName": "Zhuang Zhou",
+    "games": 8,
+    "wins": 5,
+    "winRate": 0.625,
+    "pickRate": 0.533,
+    "banRate": 0
+  },
+  {
+    "heroName": "Ying Zheng",
+    "games": 8,
+    "wins": 4,
+    "winRate": 0.5,
+    "pickRate": 0.533,
+    "banRate": 0
+  },
+  {
+    "heroName": "Bai Qi",
+    "games": 7,
+    "wins": 2,
+    "winRate": 0.286,
+    "pickRate": 0.467,
+    "banRate": 0
+  },
+  {
+    "heroName": "Zhou Yu",
+    "games": 7,
+    "wins": 2,
+    "winRate": 0.286,
+    "pickRate": 0.467,
+    "banRate": 0
+  },
+  {
+    "heroName": "Wang Zhaojun",
+    "games": 7,
+    "wins": 5,
+    "winRate": 0.714,
+    "pickRate": 0.467,
+    "banRate": 0
+  },
+  {
+    "heroName": "Yao",
+    "games": 5,
+    "wins": 4,
+    "winRate": 0.8,
+    "pickRate": 0.333,
+    "banRate": 0
+  },
+  {
+    "heroName": "Diao Chan",
+    "games": 5,
+    "wins": 3,
+    "winRate": 0.6,
+    "pickRate": 0.333,
+    "banRate": 0
+  }
+]

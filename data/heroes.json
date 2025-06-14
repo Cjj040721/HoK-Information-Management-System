@@ -1,0 +1,862 @@
+[
+  {
+    "id": "H1000",
+    "name": "Yao",
+    "equipments": [
+      {
+        "id": "E1028",
+        "name": "Sword of Despair"
+      },
+      {
+        "id": "E1029",
+        "name": "Crimson Glaive"
+      },
+      {
+        "id": "E1011",
+        "name": "Boots of Speed"
+      },
+      {
+        "id": "E1001",
+        "name": "Arcane Staff"
+      },
+      {
+        "id": "E1003",
+        "name": "Swift Boots"
+      }
+    ],
+    "type": "Support",
+    "runes": [
+      {
+        "id": "R1000",
+        "name": "Resolve"
+      },
+      {
+        "id": "R1013",
+        "name": "Bloodlust"
+      },
+      {
+        "id": "R1019",
+        "name": "Harmony"
+      }
+    ],
+    "baseHp": 2820,
+    "baseAttack": 238
+  },
+  {
+    "id": "H1001",
+    "name": "Angela",
+    "equipments": [
+      {
+        "id": "E1004",
+        "name": "Nightmare Scythe"
+      },
+      {
+        "id": "E1008",
+        "name": "Storm Pike"
+      },
+      {
+        "id": "E1011",
+        "name": "Boots of Speed"
+      },
+      {
+        "id": "E1001",
+        "name": "Arcane Staff"
+      },
+      {
+        "id": "E1003",
+        "name": "Swift Boots"
+      }
+    ],
+    "type": "Mage",
+    "runes": [
+      {
+        "id": "R1001",
+        "name": "Domination"
+      },
+      {
+        "id": "R1013",
+        "name": "Bloodlust"
+      },
+      {
+        "id": "R1019",
+        "name": "Harmony"
+      }
+    ],
+    "baseHp": 2366,
+    "baseAttack": 268
+  },
+  {
+    "id": "H1002",
+    "name": "Sun Wukong",
+    "equipments": [
+      {
+        "id": "E1007",
+        "name": "Frozen Heart"
+      },
+      {
+        "id": "E1023",
+        "name": "Shadow Ripper"
+      },
+      {
+        "id": "E1011",
+        "name": "Boots of Speed"
+      },
+      {
+        "id": "E1001",
+        "name": "Arcane Staff"
+      },
+      {
+        "id": "E1003",
+        "name": "Swift Boots"
+      }
+    ],
+    "type": "Assassin",
+    "runes": [
+      {
+        "id": "R1002",
+        "name": "Precision"
+      },
+      {
+        "id": "R1013",
+        "name": "Bloodlust"
+      },
+      {
+        "id": "R1019",
+        "name": "Harmony"
+      }
+    ],
+    "baseHp": 2234,
+    "baseAttack": 334
+  },
+  {
+    "id": "H1003",
+    "name": "Lu Bu",
+    "equipments": [
+      {
+        "id": "E1017",
+        "name": "Evil God's Crown"
+      },
+      {
+        "id": "E1008",
+        "name": "Storm Pike"
+      },
+      {
+        "id": "E1011",
+        "name": "Boots of Speed"
+      },
+      {
+        "id": "E1001",
+        "name": "Arcane Staff"
+      },
+      {
+        "id": "E1003",
+        "name": "Swift Boots"
+      }
+    ],
+    "type": "Warrior",
+    "runes": [
+      {
+        "id": "R1003",
+        "name": "Inspiration"
+      },
+      {
+        "id": "R1013",
+        "name": "Bloodlust"
+      },
+      {
+        "id": "R1019",
+        "name": "Harmony"
+      }
+    ],
+    "baseHp": 3048,
+    "baseAttack": 262
+  },
+  {
+    "id": "H1004",
+    "name": "Hou Yi",
+    "equipments": [
+      {
+        "id": "E1013",
+        "name": "Crimson Banner"
+      },
+      {
+        "id": "E1028",
+        "name": "Sword of Despair"
+      },
+      {
+        "id": "E1011",
+        "name": "Boots of Speed"
+      },
+      {
+        "id": "E1001",
+        "name": "Arcane Staff"
+      },
+      {
+        "id": "E1003",
+        "name": "Swift Boots"
+      }
+    ],
+    "type": "Marksman",
+    "runes": [
+      {
+        "id": "R1004",
+        "name": "Bravery"
+      },
+      {
+        "id": "R1013",
+        "name": "Bloodlust"
+      },
+      {
+        "id": "R1019",
+        "name": "Harmony"
+      }
+    ],
+    "baseHp": 2553,
+    "baseAttack": 303
+  },
+  {
+    "id": "H1005",
+    "name": "Miyamoto Musashi",
+    "equipments": [
+      {
+        "id": "E1012",
+        "name": "Frost Cape"
+      },
+      {
+        "id": "E1011",
+        "name": "Boots of Speed"
+      },
+      {
+        "id": "E1001",
+        "name": "Arcane Staff"
+      },
+      {
+        "id": "E1003",
+        "name": "Swift Boots"
+      },
+      {
+        "id": "E1019",
+        "name": "Dragon's Wrath"
+      }
+    ],
+    "type": "Assassin",
+    "runes": [
+      {
+        "id": "R1005",
+        "name": "Agility"
+      },
+      {
+        "id": "R1013",
+        "name": "Bloodlust"
+      },
+      {
+        "id": "R1019",
+        "name": "Harmony"
+      }
+    ],
+    "baseHp": 2278,
+    "baseAttack": 312
+  },
+  {
+    "id": "H1006",
+    "name": "Zhao Yun",
+    "equipments": [
+      {
+        "id": "E1004",
+        "name": "Nightmare Scythe"
+      },
+      {
+        "id": "E1016",
+        "name": "Ominous Premonition"
+      },
+      {
+        "id": "E1011",
+        "name": "Boots of Speed"
+      },
+      {
+        "id": "E1001",
+        "name": "Arcane Staff"
+      },
+      {
+        "id": "E1003",
+        "name": "Swift Boots"
+      }
+    ],
+    "type": "Warrior",
+    "runes": [
+      {
+        "id": "R1006",
+        "name": "Ferocity"
+      },
+      {
+        "id": "R1013",
+        "name": "Bloodlust"
+      },
+      {
+        "id": "R1019",
+        "name": "Harmony"
+      }
+    ],
+    "baseHp": 3638,
+    "baseAttack": 296
+  },
+  {
+    "id": "H1007",
+    "name": "Diao Chan",
+    "equipments": [
+      {
+        "id": "E1002",
+        "name": "Guardian Shield"
+      },
+      {
+        "id": "E1024",
+        "name": "Rift Maker"
+      },
+      {
+        "id": "E1011",
+        "name": "Boots of Speed"
+      },
+      {
+        "id": "E1001",
+        "name": "Arcane Staff"
+      },
+      {
+        "id": "E1003",
+        "name": "Swift Boots"
+      }
+    ],
+    "type": "Mage",
+    "runes": [
+      {
+        "id": "R1007",
+        "name": "Iron Will"
+      },
+      {
+        "id": "R1013",
+        "name": "Bloodlust"
+      },
+      {
+        "id": "R1019",
+        "name": "Harmony"
+      }
+    ],
+    "baseHp": 2436,
+    "baseAttack": 250
+  },
+  {
+    "id": "H1008",
+    "name": "Arthur",
+    "equipments": [
+      {
+        "id": "E1027",
+        "name": "Eternal Night"
+      },
+      {
+        "id": "E1003",
+        "name": "Swift Boots"
+      },
+      {
+        "id": "E1011",
+        "name": "Boots of Speed"
+      },
+      {
+        "id": "E1001",
+        "name": "Arcane Staff"
+      },
+      {
+        "id": "E1019",
+        "name": "Dragon's Wrath"
+      }
+    ],
+    "type": "Tank",
+    "runes": [
+      {
+        "id": "R1008",
+        "name": "Mysticism"
+      },
+      {
+        "id": "R1013",
+        "name": "Bloodlust"
+      },
+      {
+        "id": "R1019",
+        "name": "Harmony"
+      }
+    ],
+    "baseHp": 3659,
+    "baseAttack": 250
+  },
+  {
+    "id": "H1009",
+    "name": "Marco Polo",
+    "equipments": [
+      {
+        "id": "E1020",
+        "name": "Master Sword"
+      },
+      {
+        "id": "E1005",
+        "name": "Bloodthirster"
+      },
+      {
+        "id": "E1011",
+        "name": "Boots of Speed"
+      },
+      {
+        "id": "E1001",
+        "name": "Arcane Staff"
+      },
+      {
+        "id": "E1003",
+        "name": "Swift Boots"
+      }
+    ],
+    "type": "Marksman",
+    "runes": [
+      {
+        "id": "R1009",
+        "name": "Tenacity"
+      },
+      {
+        "id": "R1013",
+        "name": "Bloodlust"
+      },
+      {
+        "id": "R1019",
+        "name": "Harmony"
+      }
+    ],
+    "baseHp": 2032,
+    "baseAttack": 309
+  },
+  {
+    "id": "H1010",
+    "name": "Gongsun Li",
+    "equipments": [
+      {
+        "id": "E1019",
+        "name": "Dragon's Wrath"
+      },
+      {
+        "id": "E1002",
+        "name": "Guardian Shield"
+      },
+      {
+        "id": "E1011",
+        "name": "Boots of Speed"
+      },
+      {
+        "id": "E1001",
+        "name": "Arcane Staff"
+      },
+      {
+        "id": "E1003",
+        "name": "Swift Boots"
+      }
+    ],
+    "type": "Marksman",
+    "runes": [
+      {
+        "id": "R1010",
+        "name": "Spirit"
+      },
+      {
+        "id": "R1013",
+        "name": "Bloodlust"
+      },
+      {
+        "id": "R1019",
+        "name": "Harmony"
+      }
+    ],
+    "baseHp": 2483,
+    "baseAttack": 318
+  },
+  {
+    "id": "H1011",
+    "name": "Mulan",
+    "equipments": [
+      {
+        "id": "E1012",
+        "name": "Frost Cape"
+      },
+      {
+        "id": "E1019",
+        "name": "Dragon's Wrath"
+      },
+      {
+        "id": "E1011",
+        "name": "Boots of Speed"
+      },
+      {
+        "id": "E1001",
+        "name": "Arcane Staff"
+      },
+      {
+        "id": "E1003",
+        "name": "Swift Boots"
+      }
+    ],
+    "type": "Warrior",
+    "runes": [
+      {
+        "id": "R1011",
+        "name": "Vitality"
+      },
+      {
+        "id": "R1013",
+        "name": "Bloodlust"
+      },
+      {
+        "id": "R1019",
+        "name": "Harmony"
+      }
+    ],
+    "baseHp": 3570,
+    "baseAttack": 315
+  },
+  {
+    "id": "H1012",
+    "name": "Zhang Fei",
+    "equipments": [
+      {
+        "id": "E1016",
+        "name": "Ominous Premonition"
+      },
+      {
+        "id": "E1008",
+        "name": "Storm Pike"
+      },
+      {
+        "id": "E1011",
+        "name": "Boots of Speed"
+      },
+      {
+        "id": "E1001",
+        "name": "Arcane Staff"
+      },
+      {
+        "id": "E1003",
+        "name": "Swift Boots"
+      }
+    ],
+    "type": "Tank",
+    "runes": [
+      {
+        "id": "R1012",
+        "name": "Insight"
+      },
+      {
+        "id": "R1013",
+        "name": "Bloodlust"
+      },
+      {
+        "id": "R1019",
+        "name": "Harmony"
+      }
+    ],
+    "baseHp": 4017,
+    "baseAttack": 226
+  },
+  {
+    "id": "H1013",
+    "name": "Zhuang Zhou",
+    "equipments": [
+      {
+        "id": "E1027",
+        "name": "Eternal Night"
+      },
+      {
+        "id": "E1000",
+        "name": "Endless Blade"
+      },
+      {
+        "id": "E1011",
+        "name": "Boots of Speed"
+      },
+      {
+        "id": "E1001",
+        "name": "Arcane Staff"
+      },
+      {
+        "id": "E1003",
+        "name": "Swift Boots"
+      }
+    ],
+    "type": "Support",
+    "runes": [
+      {
+        "id": "R1013",
+        "name": "Bloodlust"
+      },
+      {
+        "id": "R1019",
+        "name": "Harmony"
+      },
+      {
+        "id": "R1017",
+        "name": "Wisdom"
+      }
+    ],
+    "baseHp": 3052,
+    "baseAttack": 227
+  },
+  {
+    "id": "H1014",
+    "name": "Diaochan",
+    "equipments": [
+      {
+        "id": "E1021",
+        "name": "Eye of the Phoenix"
+      },
+      {
+        "id": "E1028",
+        "name": "Sword of Despair"
+      },
+      {
+        "id": "E1011",
+        "name": "Boots of Speed"
+      },
+      {
+        "id": "E1001",
+        "name": "Arcane Staff"
+      },
+      {
+        "id": "E1003",
+        "name": "Swift Boots"
+      }
+    ],
+    "type": "Mage",
+    "runes": [
+      {
+        "id": "R1014",
+        "name": "Protection"
+      },
+      {
+        "id": "R1013",
+        "name": "Bloodlust"
+      },
+      {
+        "id": "R1019",
+        "name": "Harmony"
+      }
+    ],
+    "baseHp": 2376,
+    "baseAttack": 255
+  },
+  {
+    "id": "H1015",
+    "name": "Li Bai",
+    "equipments": [
+      {
+        "id": "E1024",
+        "name": "Rift Maker"
+      },
+      {
+        "id": "E1008",
+        "name": "Storm Pike"
+      },
+      {
+        "id": "E1011",
+        "name": "Boots of Speed"
+      },
+      {
+        "id": "E1001",
+        "name": "Arcane Staff"
+      },
+      {
+        "id": "E1003",
+        "name": "Swift Boots"
+      }
+    ],
+    "type": "Assassin",
+    "runes": [
+      {
+        "id": "R1015",
+        "name": "Awakening"
+      },
+      {
+        "id": "R1013",
+        "name": "Bloodlust"
+      },
+      {
+        "id": "R1019",
+        "name": "Harmony"
+      }
+    ],
+    "baseHp": 2253,
+    "baseAttack": 292
+  },
+  {
+    "id": "H1016",
+    "name": "Wang Zhaojun",
+    "equipments": [
+      {
+        "id": "E1003",
+        "name": "Swift Boots"
+      },
+      {
+        "id": "E1009",
+        "name": "Cursed Sword"
+      },
+      {
+        "id": "E1011",
+        "name": "Boots of Speed"
+      },
+      {
+        "id": "E1001",
+        "name": "Arcane Staff"
+      },
+      {
+        "id": "E1019",
+        "name": "Dragon's Wrath"
+      }
+    ],
+    "type": "Mage",
+    "runes": [
+      {
+        "id": "R1016",
+        "name": "Corruption"
+      },
+      {
+        "id": "R1013",
+        "name": "Bloodlust"
+      },
+      {
+        "id": "R1019",
+        "name": "Harmony"
+      }
+    ],
+    "baseHp": 2781,
+    "baseAttack": 259
+  },
+  {
+    "id": "H1017",
+    "name": "Bai Qi",
+    "equipments": [
+      {
+        "id": "E1005",
+        "name": "Bloodthirster"
+      },
+      {
+        "id": "E1014",
+        "name": "Nightmare"
+      },
+      {
+        "id": "E1011",
+        "name": "Boots of Speed"
+      },
+      {
+        "id": "E1001",
+        "name": "Arcane Staff"
+      },
+      {
+        "id": "E1003",
+        "name": "Swift Boots"
+      }
+    ],
+    "type": "Tank",
+    "runes": [
+      {
+        "id": "R1017",
+        "name": "Wisdom"
+      },
+      {
+        "id": "R1013",
+        "name": "Bloodlust"
+      },
+      {
+        "id": "R1019",
+        "name": "Harmony"
+      }
+    ],
+    "baseHp": 3600,
+    "baseAttack": 206
+  },
+  {
+    "id": "H1018",
+    "name": "Zhou Yu",
+    "equipments": [
+      {
+        "id": "E1023",
+        "name": "Shadow Ripper"
+      },
+      {
+        "id": "E1028",
+        "name": "Sword of Despair"
+      },
+      {
+        "id": "E1011",
+        "name": "Boots of Speed"
+      },
+      {
+        "id": "E1001",
+        "name": "Arcane Staff"
+      },
+      {
+        "id": "E1003",
+        "name": "Swift Boots"
+      }
+    ],
+    "type": "Mage",
+    "runes": [
+      {
+        "id": "R1018",
+        "name": "Vengeance"
+      },
+      {
+        "id": "R1013",
+        "name": "Bloodlust"
+      },
+      {
+        "id": "R1019",
+        "name": "Harmony"
+      }
+    ],
+    "baseHp": 2706,
+    "baseAttack": 289
+  },
+  {
+    "id": "H1019",
+    "name": "Ying Zheng",
+    "equipments": [
+      {
+        "id": "E1016",
+        "name": "Ominous Premonition"
+      },
+      {
+        "id": "E1024",
+        "name": "Rift Maker"
+      },
+      {
+        "id": "E1011",
+        "name": "Boots of Speed"
+      },
+      {
+        "id": "E1001",
+        "name": "Arcane Staff"
+      },
+      {
+        "id": "E1003",
+        "name": "Swift Boots"
+      }
+    ],
+    "type": "Mage",
+    "runes": [
+      {
+        "id": "R1019",
+        "name": "Harmony"
+      },
+      {
+        "id": "R1013",
+        "name": "Bloodlust"
+      },
+      {
+        "id": "R1017",
+        "name": "Wisdom"
+      }
+    ],
+    "baseHp": 2659,
+    "baseAttack": 278
+  }
+]

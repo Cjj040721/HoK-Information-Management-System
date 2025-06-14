@@ -1,0 +1,1186 @@
+[
+  {
+    "pair": [
+      "Hou Yi",
+      "Lu Bu"
+    ],
+    "games": 2,
+    "winRate": 0.0
+  },
+  {
+    "pair": [
+      "Hou Yi",
+      "Miyamoto Musashi"
+    ],
+    "games": 2,
+    "winRate": 0.5
+  },
+  {
+    "pair": [
+      "Hou Yi",
+      "Mulan"
+    ],
+    "games": 3,
+    "winRate": 0.0
+  },
+  {
+    "pair": [
+      "Hou Yi",
+      "Zhao Yun"
+    ],
+    "games": 5,
+    "winRate": 0.4
+  },
+  {
+    "pair": [
+      "Lu Bu",
+      "Miyamoto Musashi"
+    ],
+    "games": 1,
+    "winRate": 0.0
+  },
+  {
+    "pair": [
+      "Lu Bu",
+      "Mulan"
+    ],
+    "games": 3,
+    "winRate": 0.0
+  },
+  {
+    "pair": [
+      "Lu Bu",
+      "Zhao Yun"
+    ],
+    "games": 4,
+    "winRate": 0.0
+  },
+  {
+    "pair": [
+      "Miyamoto Musashi",
+      "Mulan"
+    ],
+    "games": 2,
+    "winRate": 0.0
+  },
+  {
+    "pair": [
+      "Miyamoto Musashi",
+      "Zhao Yun"
+    ],
+    "games": 2,
+    "winRate": 0.5
+  },
+  {
+    "pair": [
+      "Mulan",
+      "Zhao Yun"
+    ],
+    "games": 6,
+    "winRate": 0.0
+  },
+  {
+    "pair": [
+      "Angela",
+      "Diaochan"
+    ],
+    "games": 2,
+    "winRate": 0.5
+  },
+  {
+    "pair": [
+      "Angela",
+      "Hou Yi"
+    ],
+    "games": 4,
+    "winRate": 1.0
+  },
+  {
+    "pair": [
+      "Angela",
+      "Marco Polo"
+    ],
+    "games": 1,
+    "winRate": 1.0
+  },
+  {
+    "pair": [
+      "Angela",
+      "Zhang Fei"
+    ],
+    "games": 3,
+    "winRate": 0.667
+  },
+  {
+    "pair": [
+      "Diaochan",
+      "Hou Yi"
+    ],
+    "games": 4,
+    "winRate": 0.5
+  },
+  {
+    "pair": [
+      "Diaochan",
+      "Marco Polo"
+    ],
+    "games": 4,
+    "winRate": 0.5
+  },
+  {
+    "pair": [
+      "Diaochan",
+      "Zhang Fei"
+    ],
+    "games": 2,
+    "winRate": 0.5
+  },
+  {
+    "pair": [
+      "Hou Yi",
+      "Marco Polo"
+    ],
+    "games": 3,
+    "winRate": 0.667
+  },
+  {
+    "pair": [
+      "Hou Yi",
+      "Zhang Fei"
+    ],
+    "games": 2,
+    "winRate": 1.0
+  },
+  {
+    "pair": [
+      "Marco Polo",
+      "Zhang Fei"
+    ],
+    "games": 3,
+    "winRate": 0.667
+  },
+  {
+    "pair": [
+      "Diaochan",
+      "Mulan"
+    ],
+    "games": 4,
+    "winRate": 0.0
+  },
+  {
+    "pair": [
+      "Diaochan",
+      "Sun Wukong"
+    ],
+    "games": 4,
+    "winRate": 0.0
+  },
+  {
+    "pair": [
+      "Hou Yi",
+      "Sun Wukong"
+    ],
+    "games": 1,
+    "winRate": 0.0
+  },
+  {
+    "pair": [
+      "Marco Polo",
+      "Mulan"
+    ],
+    "games": 2,
+    "winRate": 0.0
+  },
+  {
+    "pair": [
+      "Marco Polo",
+      "Sun Wukong"
+    ],
+    "games": 4,
+    "winRate": 0.75
+  },
+  {
+    "pair": [
+      "Mulan",
+      "Sun Wukong"
+    ],
+    "games": 2,
+    "winRate": 0.0
+  },
+  {
+    "pair": [
+      "Arthur",
+      "Gongsun Li"
+    ],
+    "games": 1,
+    "winRate": 1.0
+  },
+  {
+    "pair": [
+      "Arthur",
+      "Li Bai"
+    ],
+    "games": 2,
+    "winRate": 1.0
+  },
+  {
+    "pair": [
+      "Arthur",
+      "Lu Bu"
+    ],
+    "games": 1,
+    "winRate": 1.0
+  },
+  {
+    "pair": [
+      "Gongsun Li",
+      "Li Bai"
+    ],
+    "games": 2,
+    "winRate": 1.0
+  },
+  {
+    "pair": [
+      "Gongsun Li",
+      "Lu Bu"
+    ],
+    "games": 3,
+    "winRate": 0.667
+  },
+  {
+    "pair": [
+      "Li Bai",
+      "Li Bai"
+    ],
+    "games": 1,
+    "winRate": 1.0
+  },
+  {
+    "pair": [
+      "Li Bai",
+      "Lu Bu"
+    ],
+    "games": 2,
+    "winRate": 1.0
+  },
+  {
+    "pair": [
+      "Angela",
+      "Miyamoto Musashi"
+    ],
+    "games": 1,
+    "winRate": 1.0
+  },
+  {
+    "pair": [
+      "Angela",
+      "Zhuang Zhou"
+    ],
+    "games": 3,
+    "winRate": 1.0
+  },
+  {
+    "pair": [
+      "Miyamoto Musashi",
+      "Zhuang Zhou"
+    ],
+    "games": 4,
+    "winRate": 1.0
+  },
+  {
+    "pair": [
+      "Zhuang Zhou",
+      "Zhuang Zhou"
+    ],
+    "games": 3,
+    "winRate": 1.0
+  },
+  {
+    "pair": [
+      "Bai Qi",
+      "Li Bai"
+    ],
+    "games": 1,
+    "winRate": 0.0
+  },
+  {
+    "pair": [
+      "Bai Qi",
+      "Marco Polo"
+    ],
+    "games": 1,
+    "winRate": 0.0
+  },
+  {
+    "pair": [
+      "Bai Qi",
+      "Ying Zheng"
+    ],
+    "games": 3,
+    "winRate": 0.0
+  },
+  {
+    "pair": [
+      "Bai Qi",
+      "Zhang Fei"
+    ],
+    "games": 2,
+    "winRate": 0.5
+  },
+  {
+    "pair": [
+      "Li Bai",
+      "Marco Polo"
+    ],
+    "games": 2,
+    "winRate": 0.5
+  },
+  {
+    "pair": [
+      "Li Bai",
+      "Ying Zheng"
+    ],
+    "games": 3,
+    "winRate": 0.333
+  },
+  {
+    "pair": [
+      "Li Bai",
+      "Zhang Fei"
+    ],
+    "games": 3,
+    "winRate": 0.667
+  },
+  {
+    "pair": [
+      "Marco Polo",
+      "Ying Zheng"
+    ],
+    "games": 3,
+    "winRate": 0.667
+  },
+  {
+    "pair": [
+      "Ying Zheng",
+      "Zhang Fei"
+    ],
+    "games": 2,
+    "winRate": 0.5
+  },
+  {
+    "pair": [
+      "Bai Qi",
+      "Lu Bu"
+    ],
+    "games": 2,
+    "winRate": 0.5
+  },
+  {
+    "pair": [
+      "Bai Qi",
+      "Sun Wukong"
+    ],
+    "games": 1,
+    "winRate": 1.0
+  },
+  {
+    "pair": [
+      "Bai Qi",
+      "Zhou Yu"
+    ],
+    "games": 5,
+    "winRate": 0.2
+  },
+  {
+    "pair": [
+      "Lu Bu",
+      "Sun Wukong"
+    ],
+    "games": 4,
+    "winRate": 0.75
+  },
+  {
+    "pair": [
+      "Lu Bu",
+      "Zhang Fei"
+    ],
+    "games": 1,
+    "winRate": 1.0
+  },
+  {
+    "pair": [
+      "Lu Bu",
+      "Zhou Yu"
+    ],
+    "games": 3,
+    "winRate": 0.333
+  },
+  {
+    "pair": [
+      "Sun Wukong",
+      "Zhang Fei"
+    ],
+    "games": 1,
+    "winRate": 1.0
+  },
+  {
+    "pair": [
+      "Sun Wukong",
+      "Zhou Yu"
+    ],
+    "games": 1,
+    "winRate": 1.0
+  },
+  {
+    "pair": [
+      "Zhang Fei",
+      "Zhou Yu"
+    ],
+    "games": 2,
+    "winRate": 1.0
+  },
+  {
+    "pair": [
+      "Diao Chan",
+      "Marco Polo"
+    ],
+    "games": 2,
+    "winRate": 0.5
+  },
+  {
+    "pair": [
+      "Diao Chan",
+      "Miyamoto Musashi"
+    ],
+    "games": 1,
+    "winRate": 0.0
+  },
+  {
+    "pair": [
+      "Diao Chan",
+      "Wang Zhaojun"
+    ],
+    "games": 2,
+    "winRate": 0.5
+  },
+  {
+    "pair": [
+      "Diao Chan",
+      "Yao"
+    ],
+    "games": 2,
+    "winRate": 0.5
+  },
+  {
+    "pair": [
+      "Marco Polo",
+      "Miyamoto Musashi"
+    ],
+    "games": 3,
+    "winRate": 0.333
+  },
+  {
+    "pair": [
+      "Marco Polo",
+      "Wang Zhaojun"
+    ],
+    "games": 1,
+    "winRate": 0.0
+  },
+  {
+    "pair": [
+      "Marco Polo",
+      "Yao"
+    ],
+    "games": 1,
+    "winRate": 0.0
+  },
+  {
+    "pair": [
+      "Miyamoto Musashi",
+      "Wang Zhaojun"
+    ],
+    "games": 2,
+    "winRate": 0.5
+  },
+  {
+    "pair": [
+      "Miyamoto Musashi",
+      "Yao"
+    ],
+    "games": 4,
+    "winRate": 0.75
+  },
+  {
+    "pair": [
+      "Wang Zhaojun",
+      "Yao"
+    ],
+    "games": 2,
+    "winRate": 0.5
+  },
+  {
+    "pair": [
+      "Miyamoto Musashi",
+      "Ying Zheng"
+    ],
+    "games": 2,
+    "winRate": 1.0
+  },
+  {
+    "pair": [
+      "Wang Zhaojun",
+      "Ying Zheng"
+    ],
+    "games": 1,
+    "winRate": 1.0
+  },
+  {
+    "pair": [
+      "Wang Zhaojun",
+      "Zhuang Zhou"
+    ],
+    "games": 2,
+    "winRate": 0.5
+  },
+  {
+    "pair": [
+      "Yao",
+      "Ying Zheng"
+    ],
+    "games": 2,
+    "winRate": 1.0
+  },
+  {
+    "pair": [
+      "Yao",
+      "Zhuang Zhou"
+    ],
+    "games": 1,
+    "winRate": 1.0
+  },
+  {
+    "pair": [
+      "Ying Zheng",
+      "Zhuang Zhou"
+    ],
+    "games": 2,
+    "winRate": 1.0
+  },
+  {
+    "pair": [
+      "Mulan",
+      "Mulan"
+    ],
+    "games": 2,
+    "winRate": 0.0
+  },
+  {
+    "pair": [
+      "Mulan",
+      "Wang Zhaojun"
+    ],
+    "games": 3,
+    "winRate": 0.333
+  },
+  {
+    "pair": [
+      "Mulan",
+      "Zhuang Zhou"
+    ],
+    "games": 2,
+    "winRate": 0.0
+  },
+  {
+    "pair": [
+      "Wang Zhaojun",
+      "Zhao Yun"
+    ],
+    "games": 3,
+    "winRate": 0.667
+  },
+  {
+    "pair": [
+      "Zhao Yun",
+      "Zhuang Zhou"
+    ],
+    "games": 2,
+    "winRate": 0.0
+  },
+  {
+    "pair": [
+      "Arthur",
+      "Diaochan"
+    ],
+    "games": 1,
+    "winRate": 0.0
+  },
+  {
+    "pair": [
+      "Arthur",
+      "Hou Yi"
+    ],
+    "games": 2,
+    "winRate": 0.5
+  },
+  {
+    "pair": [
+      "Arthur",
+      "Zhao Yun"
+    ],
+    "games": 2,
+    "winRate": 0.5
+  },
+  {
+    "pair": [
+      "Arthur",
+      "Zhuang Zhou"
+    ],
+    "games": 1,
+    "winRate": 0.0
+  },
+  {
+    "pair": [
+      "Diaochan",
+      "Zhao Yun"
+    ],
+    "games": 1,
+    "winRate": 0.0
+  },
+  {
+    "pair": [
+      "Diaochan",
+      "Zhuang Zhou"
+    ],
+    "games": 5,
+    "winRate": 0.2
+  },
+  {
+    "pair": [
+      "Hou Yi",
+      "Zhuang Zhou"
+    ],
+    "games": 2,
+    "winRate": 0.5
+  },
+  {
+    "pair": [
+      "Angela",
+      "Li Bai"
+    ],
+    "games": 3,
+    "winRate": 0.667
+  },
+  {
+    "pair": [
+      "Angela",
+      "Zhou Yu"
+    ],
+    "games": 5,
+    "winRate": 0.2
+  },
+  {
+    "pair": [
+      "Hou Yi",
+      "Li Bai"
+    ],
+    "games": 3,
+    "winRate": 1.0
+  },
+  {
+    "pair": [
+      "Hou Yi",
+      "Zhou Yu"
+    ],
+    "games": 2,
+    "winRate": 0.5
+  },
+  {
+    "pair": [
+      "Li Bai",
+      "Zhou Yu"
+    ],
+    "games": 2,
+    "winRate": 0.5
+  },
+  {
+    "pair": [
+      "Gongsun Li",
+      "Marco Polo"
+    ],
+    "games": 4,
+    "winRate": 0.75
+  },
+  {
+    "pair": [
+      "Gongsun Li",
+      "Sun Wukong"
+    ],
+    "games": 4,
+    "winRate": 1.0
+  },
+  {
+    "pair": [
+      "Lu Bu",
+      "Marco Polo"
+    ],
+    "games": 1,
+    "winRate": 1.0
+  },
+  {
+    "pair": [
+      "Sun Wukong",
+      "Sun Wukong"
+    ],
+    "games": 1,
+    "winRate": 1.0
+  },
+  {
+    "pair": [
+      "Mulan",
+      "Zhou Yu"
+    ],
+    "games": 1,
+    "winRate": 0.0
+  },
+  {
+    "pair": [
+      "Zhao Yun",
+      "Zhou Yu"
+    ],
+    "games": 1,
+    "winRate": 0.0
+  },
+  {
+    "pair": [
+      "Bai Qi",
+      "Diao Chan"
+    ],
+    "games": 1,
+    "winRate": 1.0
+  },
+  {
+    "pair": [
+      "Bai Qi",
+      "Gongsun Li"
+    ],
+    "games": 2,
+    "winRate": 0.5
+  },
+  {
+    "pair": [
+      "Bai Qi",
+      "Mulan"
+    ],
+    "games": 1,
+    "winRate": 1.0
+  },
+  {
+    "pair": [
+      "Bai Qi",
+      "Wang Zhaojun"
+    ],
+    "games": 1,
+    "winRate": 1.0
+  },
+  {
+    "pair": [
+      "Diao Chan",
+      "Gongsun Li"
+    ],
+    "games": 3,
+    "winRate": 1.0
+  },
+  {
+    "pair": [
+      "Diao Chan",
+      "Mulan"
+    ],
+    "games": 2,
+    "winRate": 1.0
+  },
+  {
+    "pair": [
+      "Gongsun Li",
+      "Mulan"
+    ],
+    "games": 2,
+    "winRate": 0.5
+  },
+  {
+    "pair": [
+      "Gongsun Li",
+      "Wang Zhaojun"
+    ],
+    "games": 1,
+    "winRate": 1.0
+  },
+  {
+    "pair": [
+      "Angela",
+      "Bai Qi"
+    ],
+    "games": 4,
+    "winRate": 0.0
+  },
+  {
+    "pair": [
+      "Angela",
+      "Gongsun Li"
+    ],
+    "games": 1,
+    "winRate": 0.0
+  },
+  {
+    "pair": [
+      "Angela",
+      "Lu Bu"
+    ],
+    "games": 1,
+    "winRate": 0.0
+  },
+  {
+    "pair": [
+      "Gongsun Li",
+      "Zhou Yu"
+    ],
+    "games": 1,
+    "winRate": 0.0
+  },
+  {
+    "pair": [
+      "Angela",
+      "Diao Chan"
+    ],
+    "games": 1,
+    "winRate": 0.0
+  },
+  {
+    "pair": [
+      "Angela",
+      "Ying Zheng"
+    ],
+    "games": 3,
+    "winRate": 0.0
+  },
+  {
+    "pair": [
+      "Diao Chan",
+      "Li Bai"
+    ],
+    "games": 1,
+    "winRate": 0.0
+  },
+  {
+    "pair": [
+      "Diao Chan",
+      "Ying Zheng"
+    ],
+    "games": 2,
+    "winRate": 0.5
+  },
+  {
+    "pair": [
+      "Diao Chan",
+      "Zhou Yu"
+    ],
+    "games": 1,
+    "winRate": 0.0
+  },
+  {
+    "pair": [
+      "Ying Zheng",
+      "Zhou Yu"
+    ],
+    "games": 3,
+    "winRate": 0.0
+  },
+  {
+    "pair": [
+      "Arthur",
+      "Diao Chan"
+    ],
+    "games": 1,
+    "winRate": 1.0
+  },
+  {
+    "pair": [
+      "Arthur",
+      "Mulan"
+    ],
+    "games": 1,
+    "winRate": 1.0
+  },
+  {
+    "pair": [
+      "Arthur",
+      "Yao"
+    ],
+    "games": 1,
+    "winRate": 1.0
+  },
+  {
+    "pair": [
+      "Arthur",
+      "Ying Zheng"
+    ],
+    "games": 1,
+    "winRate": 1.0
+  },
+  {
+    "pair": [
+      "Mulan",
+      "Yao"
+    ],
+    "games": 1,
+    "winRate": 1.0
+  },
+  {
+    "pair": [
+      "Mulan",
+      "Ying Zheng"
+    ],
+    "games": 1,
+    "winRate": 1.0
+  },
+  {
+    "pair": [
+      "Angela",
+      "Wang Zhaojun"
+    ],
+    "games": 1,
+    "winRate": 1.0
+  },
+  {
+    "pair": [
+      "Hou Yi",
+      "Hou Yi"
+    ],
+    "games": 1,
+    "winRate": 1.0
+  },
+  {
+    "pair": [
+      "Hou Yi",
+      "Wang Zhaojun"
+    ],
+    "games": 4,
+    "winRate": 1.0
+  },
+  {
+    "pair": [
+      "Li Bai",
+      "Wang Zhaojun"
+    ],
+    "games": 1,
+    "winRate": 1.0
+  },
+  {
+    "pair": [
+      "Angela",
+      "Mulan"
+    ],
+    "games": 2,
+    "winRate": 0.0
+  },
+  {
+    "pair": [
+      "Mulan",
+      "Zhang Fei"
+    ],
+    "games": 2,
+    "winRate": 0.0
+  },
+  {
+    "pair": [
+      "Hou Yi",
+      "Yao"
+    ],
+    "games": 2,
+    "winRate": 1.0
+  },
+  {
+    "pair": [
+      "Yao",
+      "Yao"
+    ],
+    "games": 1,
+    "winRate": 1.0
+  },
+  {
+    "pair": [
+      "Yao",
+      "Zhao Yun"
+    ],
+    "games": 2,
+    "winRate": 1.0
+  },
+  {
+    "pair": [
+      "Angela",
+      "Arthur"
+    ],
+    "games": 1,
+    "winRate": 0.0
+  },
+  {
+    "pair": [
+      "Arthur",
+      "Bai Qi"
+    ],
+    "games": 2,
+    "winRate": 0.0
+  },
+  {
+    "pair": [
+      "Arthur",
+      "Zhou Yu"
+    ],
+    "games": 1,
+    "winRate": 0.0
+  },
+  {
+    "pair": [
+      "Bai Qi",
+      "Bai Qi"
+    ],
+    "games": 1,
+    "winRate": 0.0
+  },
+  {
+    "pair": [
+      "Arthur",
+      "Wang Zhaojun"
+    ],
+    "games": 2,
+    "winRate": 1.0
+  },
+  {
+    "pair": [
+      "Wang Zhaojun",
+      "Wang Zhaojun"
+    ],
+    "games": 1,
+    "winRate": 1.0
+  },
+  {
+    "pair": [
+      "Diaochan",
+      "Gongsun Li"
+    ],
+    "games": 1,
+    "winRate": 0.0
+  },
+  {
+    "pair": [
+      "Diaochan",
+      "Miyamoto Musashi"
+    ],
+    "games": 1,
+    "winRate": 0.0
+  },
+  {
+    "pair": [
+      "Gongsun Li",
+      "Miyamoto Musashi"
+    ],
+    "games": 1,
+    "winRate": 0.0
+  },
+  {
+    "pair": [
+      "Sun Wukong",
+      "Zhao Yun"
+    ],
+    "games": 2,
+    "winRate": 0.0
+  },
+  {
+    "pair": [
+      "Zhao Yun",
+      "Zhao Yun"
+    ],
+    "games": 1,
+    "winRate": 0.0
+  },
+  {
+    "pair": [
+      "Diaochan",
+      "Ying Zheng"
+    ],
+    "games": 1,
+    "winRate": 1.0
+  },
+  {
+    "pair": [
+      "Hou Yi",
+      "Ying Zheng"
+    ],
+    "games": 1,
+    "winRate": 1.0
+  },
+  {
+    "pair": [
+      "Marco Polo",
+      "Zhuang Zhou"
+    ],
+    "games": 1,
+    "winRate": 1.0
+  },
+  {
+    "pair": [
+      "Diao Chan",
+      "Sun Wukong"
+    ],
+    "games": 1,
+    "winRate": 1.0
+  },
+  {
+    "pair": [
+      "Gongsun Li",
+      "Gongsun Li"
+    ],
+    "games": 1,
+    "winRate": 1.0
+  },
+  {
+    "pair": [
+      "Ying Zheng",
+      "Ying Zheng"
+    ],
+    "games": 1,
+    "winRate": 0.0
+  },
+  {
+    "pair": [
+      "Diaochan",
+      "Diaochan"
+    ],
+    "games": 3,
+    "winRate": 0.0
+  },
+  {
+    "pair": [
+      "Sun Wukong",
+      "Zhuang Zhou"
+    ],
+    "games": 1,
+    "winRate": 0.0
+  },
+  {
+    "pair": [
+      "Li Bai",
+      "Miyamoto Musashi"
+    ],
+    "games": 1,
+    "winRate": 1.0
+  },
+  {
+    "pair": [
+      "Miyamoto Musashi",
+      "Zhang Fei"
+    ],
+    "games": 1,
+    "winRate": 1.0
+  }
+]

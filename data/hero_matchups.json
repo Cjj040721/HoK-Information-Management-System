@@ -1,0 +1,1940 @@
+[
+  {
+    "heroA": "Mulan",
+    "heroB": "Angela",
+    "games": 5,
+    "winRate": 0.4
+  },
+  {
+    "heroA": "Angela",
+    "heroB": "Mulan",
+    "games": 5,
+    "winRate": 0.6
+  },
+  {
+    "heroA": "Mulan",
+    "heroB": "Diaochan",
+    "games": 2,
+    "winRate": 0.0
+  },
+  {
+    "heroA": "Diaochan",
+    "heroB": "Mulan",
+    "games": 2,
+    "winRate": 1.0
+  },
+  {
+    "heroA": "Mulan",
+    "heroB": "Zhang Fei",
+    "games": 1,
+    "winRate": 0.0
+  },
+  {
+    "heroA": "Zhang Fei",
+    "heroB": "Mulan",
+    "games": 1,
+    "winRate": 1.0
+  },
+  {
+    "heroA": "Mulan",
+    "heroB": "Hou Yi",
+    "games": 7,
+    "winRate": 0.0
+  },
+  {
+    "heroA": "Hou Yi",
+    "heroB": "Mulan",
+    "games": 7,
+    "winRate": 1.0
+  },
+  {
+    "heroA": "Mulan",
+    "heroB": "Marco Polo",
+    "games": 3,
+    "winRate": 0.0
+  },
+  {
+    "heroA": "Marco Polo",
+    "heroB": "Mulan",
+    "games": 3,
+    "winRate": 1.0
+  },
+  {
+    "heroA": "Zhao Yun",
+    "heroB": "Angela",
+    "games": 3,
+    "winRate": 0.333
+  },
+  {
+    "heroA": "Angela",
+    "heroB": "Zhao Yun",
+    "games": 3,
+    "winRate": 0.667
+  },
+  {
+    "heroA": "Zhao Yun",
+    "heroB": "Diaochan",
+    "games": 4,
+    "winRate": 0.25
+  },
+  {
+    "heroA": "Diaochan",
+    "heroB": "Zhao Yun",
+    "games": 4,
+    "winRate": 0.75
+  },
+  {
+    "heroA": "Zhao Yun",
+    "heroB": "Zhang Fei",
+    "games": 2,
+    "winRate": 0.0
+  },
+  {
+    "heroA": "Zhang Fei",
+    "heroB": "Zhao Yun",
+    "games": 2,
+    "winRate": 1.0
+  },
+  {
+    "heroA": "Zhao Yun",
+    "heroB": "Hou Yi",
+    "games": 4,
+    "winRate": 0.0
+  },
+  {
+    "heroA": "Hou Yi",
+    "heroB": "Zhao Yun",
+    "games": 4,
+    "winRate": 1.0
+  },
+  {
+    "heroA": "Zhao Yun",
+    "heroB": "Marco Polo",
+    "games": 5,
+    "winRate": 0.2
+  },
+  {
+    "heroA": "Marco Polo",
+    "heroB": "Zhao Yun",
+    "games": 5,
+    "winRate": 0.8
+  },
+  {
+    "heroA": "Miyamoto Musashi",
+    "heroB": "Angela",
+    "games": 2,
+    "winRate": 0.5
+  },
+  {
+    "heroA": "Angela",
+    "heroB": "Miyamoto Musashi",
+    "games": 2,
+    "winRate": 0.5
+  },
+  {
+    "heroA": "Miyamoto Musashi",
+    "heroB": "Diaochan",
+    "games": 4,
+    "winRate": 0.75
+  },
+  {
+    "heroA": "Diaochan",
+    "heroB": "Miyamoto Musashi",
+    "games": 4,
+    "winRate": 0.25
+  },
+  {
+    "heroA": "Miyamoto Musashi",
+    "heroB": "Zhang Fei",
+    "games": 3,
+    "winRate": 0.333
+  },
+  {
+    "heroA": "Zhang Fei",
+    "heroB": "Miyamoto Musashi",
+    "games": 3,
+    "winRate": 0.667
+  },
+  {
+    "heroA": "Miyamoto Musashi",
+    "heroB": "Hou Yi",
+    "games": 2,
+    "winRate": 0.0
+  },
+  {
+    "heroA": "Hou Yi",
+    "heroB": "Miyamoto Musashi",
+    "games": 2,
+    "winRate": 1.0
+  },
+  {
+    "heroA": "Miyamoto Musashi",
+    "heroB": "Marco Polo",
+    "games": 2,
+    "winRate": 0.5
+  },
+  {
+    "heroA": "Marco Polo",
+    "heroB": "Miyamoto Musashi",
+    "games": 2,
+    "winRate": 0.5
+  },
+  {
+    "heroA": "Lu Bu",
+    "heroB": "Angela",
+    "games": 1,
+    "winRate": 0.0
+  },
+  {
+    "heroA": "Angela",
+    "heroB": "Lu Bu",
+    "games": 1,
+    "winRate": 1.0
+  },
+  {
+    "heroA": "Lu Bu",
+    "heroB": "Diaochan",
+    "games": 3,
+    "winRate": 0.333
+  },
+  {
+    "heroA": "Diaochan",
+    "heroB": "Lu Bu",
+    "games": 3,
+    "winRate": 0.667
+  },
+  {
+    "heroA": "Lu Bu",
+    "heroB": "Zhang Fei",
+    "games": 1,
+    "winRate": 0.0
+  },
+  {
+    "heroA": "Zhang Fei",
+    "heroB": "Lu Bu",
+    "games": 1,
+    "winRate": 1.0
+  },
+  {
+    "heroA": "Lu Bu",
+    "heroB": "Hou Yi",
+    "games": 4,
+    "winRate": 0.5
+  },
+  {
+    "heroA": "Hou Yi",
+    "heroB": "Lu Bu",
+    "games": 4,
+    "winRate": 0.5
+  },
+  {
+    "heroA": "Lu Bu",
+    "heroB": "Marco Polo",
+    "games": 5,
+    "winRate": 0.4
+  },
+  {
+    "heroA": "Marco Polo",
+    "heroB": "Lu Bu",
+    "games": 5,
+    "winRate": 0.6
+  },
+  {
+    "heroA": "Hou Yi",
+    "heroB": "Angela",
+    "games": 5,
+    "winRate": 0.6
+  },
+  {
+    "heroA": "Angela",
+    "heroB": "Hou Yi",
+    "games": 5,
+    "winRate": 0.4
+  },
+  {
+    "heroA": "Hou Yi",
+    "heroB": "Diaochan",
+    "games": 5,
+    "winRate": 0.8
+  },
+  {
+    "heroA": "Diaochan",
+    "heroB": "Hou Yi",
+    "games": 5,
+    "winRate": 0.2
+  },
+  {
+    "heroA": "Hou Yi",
+    "heroB": "Zhang Fei",
+    "games": 4,
+    "winRate": 0.5
+  },
+  {
+    "heroA": "Zhang Fei",
+    "heroB": "Hou Yi",
+    "games": 4,
+    "winRate": 0.5
+  },
+  {
+    "heroA": "Hou Yi",
+    "heroB": "Hou Yi",
+    "games": 4,
+    "winRate": 0.5
+  },
+  {
+    "heroA": "Hou Yi",
+    "heroB": "Marco Polo",
+    "games": 3,
+    "winRate": 0.333
+  },
+  {
+    "heroA": "Marco Polo",
+    "heroB": "Hou Yi",
+    "games": 3,
+    "winRate": 0.667
+  },
+  {
+    "heroA": "Marco Polo",
+    "heroB": "Li Bai",
+    "games": 2,
+    "winRate": 0.0
+  },
+  {
+    "heroA": "Li Bai",
+    "heroB": "Marco Polo",
+    "games": 2,
+    "winRate": 1.0
+  },
+  {
+    "heroA": "Marco Polo",
+    "heroB": "Gongsun Li",
+    "games": 1,
+    "winRate": 0.0
+  },
+  {
+    "heroA": "Gongsun Li",
+    "heroB": "Marco Polo",
+    "games": 1,
+    "winRate": 1.0
+  },
+  {
+    "heroA": "Marco Polo",
+    "heroB": "Arthur",
+    "games": 2,
+    "winRate": 0.0
+  },
+  {
+    "heroA": "Arthur",
+    "heroB": "Marco Polo",
+    "games": 2,
+    "winRate": 1.0
+  },
+  {
+    "heroA": "Hou Yi",
+    "heroB": "Li Bai",
+    "games": 3,
+    "winRate": 0.0
+  },
+  {
+    "heroA": "Li Bai",
+    "heroB": "Hou Yi",
+    "games": 3,
+    "winRate": 1.0
+  },
+  {
+    "heroA": "Hou Yi",
+    "heroB": "Gongsun Li",
+    "games": 3,
+    "winRate": 0.333
+  },
+  {
+    "heroA": "Gongsun Li",
+    "heroB": "Hou Yi",
+    "games": 3,
+    "winRate": 0.667
+  },
+  {
+    "heroA": "Hou Yi",
+    "heroB": "Arthur",
+    "games": 3,
+    "winRate": 0.667
+  },
+  {
+    "heroA": "Arthur",
+    "heroB": "Hou Yi",
+    "games": 3,
+    "winRate": 0.333
+  },
+  {
+    "heroA": "Diaochan",
+    "heroB": "Li Bai",
+    "games": 7,
+    "winRate": 0.0
+  },
+  {
+    "heroA": "Li Bai",
+    "heroB": "Diaochan",
+    "games": 7,
+    "winRate": 1.0
+  },
+  {
+    "heroA": "Diaochan",
+    "heroB": "Gongsun Li",
+    "games": 1,
+    "winRate": 0.0
+  },
+  {
+    "heroA": "Gongsun Li",
+    "heroB": "Diaochan",
+    "games": 1,
+    "winRate": 1.0
+  },
+  {
+    "heroA": "Diaochan",
+    "heroB": "Arthur",
+    "games": 2,
+    "winRate": 0.0
+  },
+  {
+    "heroA": "Arthur",
+    "heroB": "Diaochan",
+    "games": 2,
+    "winRate": 1.0
+  },
+  {
+    "heroA": "Mulan",
+    "heroB": "Li Bai",
+    "games": 5,
+    "winRate": 0.2
+  },
+  {
+    "heroA": "Li Bai",
+    "heroB": "Mulan",
+    "games": 5,
+    "winRate": 0.8
+  },
+  {
+    "heroA": "Mulan",
+    "heroB": "Lu Bu",
+    "games": 3,
+    "winRate": 0.333
+  },
+  {
+    "heroA": "Lu Bu",
+    "heroB": "Mulan",
+    "games": 3,
+    "winRate": 0.667
+  },
+  {
+    "heroA": "Mulan",
+    "heroB": "Gongsun Li",
+    "games": 3,
+    "winRate": 0.333
+  },
+  {
+    "heroA": "Gongsun Li",
+    "heroB": "Mulan",
+    "games": 3,
+    "winRate": 0.667
+  },
+  {
+    "heroA": "Mulan",
+    "heroB": "Arthur",
+    "games": 2,
+    "winRate": 0.0
+  },
+  {
+    "heroA": "Arthur",
+    "heroB": "Mulan",
+    "games": 2,
+    "winRate": 1.0
+  },
+  {
+    "heroA": "Sun Wukong",
+    "heroB": "Li Bai",
+    "games": 3,
+    "winRate": 0.0
+  },
+  {
+    "heroA": "Li Bai",
+    "heroB": "Sun Wukong",
+    "games": 3,
+    "winRate": 1.0
+  },
+  {
+    "heroA": "Sun Wukong",
+    "heroB": "Lu Bu",
+    "games": 3,
+    "winRate": 0.667
+  },
+  {
+    "heroA": "Lu Bu",
+    "heroB": "Sun Wukong",
+    "games": 3,
+    "winRate": 0.333
+  },
+  {
+    "heroA": "Sun Wukong",
+    "heroB": "Gongsun Li",
+    "games": 1,
+    "winRate": 0.0
+  },
+  {
+    "heroA": "Gongsun Li",
+    "heroB": "Sun Wukong",
+    "games": 1,
+    "winRate": 1.0
+  },
+  {
+    "heroA": "Sun Wukong",
+    "heroB": "Arthur",
+    "games": 1,
+    "winRate": 0.0
+  },
+  {
+    "heroA": "Arthur",
+    "heroB": "Sun Wukong",
+    "games": 1,
+    "winRate": 1.0
+  },
+  {
+    "heroA": "Zhuang Zhou",
+    "heroB": "Ying Zheng",
+    "games": 5,
+    "winRate": 0.6
+  },
+  {
+    "heroA": "Ying Zheng",
+    "heroB": "Zhuang Zhou",
+    "games": 5,
+    "winRate": 0.4
+  },
+  {
+    "heroA": "Zhuang Zhou",
+    "heroB": "Marco Polo",
+    "games": 4,
+    "winRate": 0.75
+  },
+  {
+    "heroA": "Marco Polo",
+    "heroB": "Zhuang Zhou",
+    "games": 4,
+    "winRate": 0.25
+  },
+  {
+    "heroA": "Zhuang Zhou",
+    "heroB": "Zhang Fei",
+    "games": 5,
+    "winRate": 0.6
+  },
+  {
+    "heroA": "Zhang Fei",
+    "heroB": "Zhuang Zhou",
+    "games": 5,
+    "winRate": 0.4
+  },
+  {
+    "heroA": "Zhuang Zhou",
+    "heroB": "Li Bai",
+    "games": 5,
+    "winRate": 0.6
+  },
+  {
+    "heroA": "Li Bai",
+    "heroB": "Zhuang Zhou",
+    "games": 5,
+    "winRate": 0.4
+  },
+  {
+    "heroA": "Zhuang Zhou",
+    "heroB": "Bai Qi",
+    "games": 3,
+    "winRate": 1.0
+  },
+  {
+    "heroA": "Bai Qi",
+    "heroB": "Zhuang Zhou",
+    "games": 3,
+    "winRate": 0.0
+  },
+  {
+    "heroA": "Miyamoto Musashi",
+    "heroB": "Ying Zheng",
+    "games": 1,
+    "winRate": 1.0
+  },
+  {
+    "heroA": "Ying Zheng",
+    "heroB": "Miyamoto Musashi",
+    "games": 1,
+    "winRate": 0.0
+  },
+  {
+    "heroA": "Miyamoto Musashi",
+    "heroB": "Li Bai",
+    "games": 1,
+    "winRate": 1.0
+  },
+  {
+    "heroA": "Li Bai",
+    "heroB": "Miyamoto Musashi",
+    "games": 1,
+    "winRate": 0.0
+  },
+  {
+    "heroA": "Miyamoto Musashi",
+    "heroB": "Bai Qi",
+    "games": 4,
+    "winRate": 0.75
+  },
+  {
+    "heroA": "Bai Qi",
+    "heroB": "Miyamoto Musashi",
+    "games": 4,
+    "winRate": 0.25
+  },
+  {
+    "heroA": "Angela",
+    "heroB": "Ying Zheng",
+    "games": 2,
+    "winRate": 0.5
+  },
+  {
+    "heroA": "Ying Zheng",
+    "heroB": "Angela",
+    "games": 2,
+    "winRate": 0.5
+  },
+  {
+    "heroA": "Angela",
+    "heroB": "Marco Polo",
+    "games": 2,
+    "winRate": 0.5
+  },
+  {
+    "heroA": "Marco Polo",
+    "heroB": "Angela",
+    "games": 2,
+    "winRate": 0.5
+  },
+  {
+    "heroA": "Angela",
+    "heroB": "Zhang Fei",
+    "games": 2,
+    "winRate": 1.0
+  },
+  {
+    "heroA": "Zhang Fei",
+    "heroB": "Angela",
+    "games": 2,
+    "winRate": 0.0
+  },
+  {
+    "heroA": "Angela",
+    "heroB": "Li Bai",
+    "games": 2,
+    "winRate": 0.5
+  },
+  {
+    "heroA": "Li Bai",
+    "heroB": "Angela",
+    "games": 2,
+    "winRate": 0.5
+  },
+  {
+    "heroA": "Angela",
+    "heroB": "Bai Qi",
+    "games": 2,
+    "winRate": 0.5
+  },
+  {
+    "heroA": "Bai Qi",
+    "heroB": "Angela",
+    "games": 2,
+    "winRate": 0.5
+  },
+  {
+    "heroA": "Bai Qi",
+    "heroB": "Marco Polo",
+    "games": 2,
+    "winRate": 0.5
+  },
+  {
+    "heroA": "Marco Polo",
+    "heroB": "Bai Qi",
+    "games": 2,
+    "winRate": 0.5
+  },
+  {
+    "heroA": "Bai Qi",
+    "heroB": "Wang Zhaojun",
+    "games": 2,
+    "winRate": 0.5
+  },
+  {
+    "heroA": "Wang Zhaojun",
+    "heroB": "Bai Qi",
+    "games": 2,
+    "winRate": 0.5
+  },
+  {
+    "heroA": "Bai Qi",
+    "heroB": "Yao",
+    "games": 5,
+    "winRate": 0.2
+  },
+  {
+    "heroA": "Yao",
+    "heroB": "Bai Qi",
+    "games": 5,
+    "winRate": 0.8
+  },
+  {
+    "heroA": "Bai Qi",
+    "heroB": "Diao Chan",
+    "games": 3,
+    "winRate": 0.333
+  },
+  {
+    "heroA": "Diao Chan",
+    "heroB": "Bai Qi",
+    "games": 3,
+    "winRate": 0.667
+  },
+  {
+    "heroA": "Zhou Yu",
+    "heroB": "Marco Polo",
+    "games": 3,
+    "winRate": 0.333
+  },
+  {
+    "heroA": "Marco Polo",
+    "heroB": "Zhou Yu",
+    "games": 3,
+    "winRate": 0.667
+  },
+  {
+    "heroA": "Zhou Yu",
+    "heroB": "Wang Zhaojun",
+    "games": 2,
+    "winRate": 0.5
+  },
+  {
+    "heroA": "Wang Zhaojun",
+    "heroB": "Zhou Yu",
+    "games": 2,
+    "winRate": 0.5
+  },
+  {
+    "heroA": "Zhou Yu",
+    "heroB": "Yao",
+    "games": 4,
+    "winRate": 0.25
+  },
+  {
+    "heroA": "Yao",
+    "heroB": "Zhou Yu",
+    "games": 4,
+    "winRate": 0.75
+  },
+  {
+    "heroA": "Zhou Yu",
+    "heroB": "Diao Chan",
+    "games": 4,
+    "winRate": 0.25
+  },
+  {
+    "heroA": "Diao Chan",
+    "heroB": "Zhou Yu",
+    "games": 4,
+    "winRate": 0.75
+  },
+  {
+    "heroA": "Zhou Yu",
+    "heroB": "Miyamoto Musashi",
+    "games": 2,
+    "winRate": 0.5
+  },
+  {
+    "heroA": "Miyamoto Musashi",
+    "heroB": "Zhou Yu",
+    "games": 2,
+    "winRate": 0.5
+  },
+  {
+    "heroA": "Zhang Fei",
+    "heroB": "Marco Polo",
+    "games": 1,
+    "winRate": 1.0
+  },
+  {
+    "heroA": "Marco Polo",
+    "heroB": "Zhang Fei",
+    "games": 1,
+    "winRate": 0.0
+  },
+  {
+    "heroA": "Zhang Fei",
+    "heroB": "Wang Zhaojun",
+    "games": 2,
+    "winRate": 0.5
+  },
+  {
+    "heroA": "Wang Zhaojun",
+    "heroB": "Zhang Fei",
+    "games": 2,
+    "winRate": 0.5
+  },
+  {
+    "heroA": "Zhang Fei",
+    "heroB": "Yao",
+    "games": 1,
+    "winRate": 1.0
+  },
+  {
+    "heroA": "Yao",
+    "heroB": "Zhang Fei",
+    "games": 1,
+    "winRate": 0.0
+  },
+  {
+    "heroA": "Zhang Fei",
+    "heroB": "Diao Chan",
+    "games": 1,
+    "winRate": 1.0
+  },
+  {
+    "heroA": "Diao Chan",
+    "heroB": "Zhang Fei",
+    "games": 1,
+    "winRate": 0.0
+  },
+  {
+    "heroA": "Sun Wukong",
+    "heroB": "Marco Polo",
+    "games": 3,
+    "winRate": 0.333
+  },
+  {
+    "heroA": "Marco Polo",
+    "heroB": "Sun Wukong",
+    "games": 3,
+    "winRate": 0.667
+  },
+  {
+    "heroA": "Sun Wukong",
+    "heroB": "Wang Zhaojun",
+    "games": 1,
+    "winRate": 1.0
+  },
+  {
+    "heroA": "Wang Zhaojun",
+    "heroB": "Sun Wukong",
+    "games": 1,
+    "winRate": 0.0
+  },
+  {
+    "heroA": "Sun Wukong",
+    "heroB": "Yao",
+    "games": 1,
+    "winRate": 1.0
+  },
+  {
+    "heroA": "Yao",
+    "heroB": "Sun Wukong",
+    "games": 1,
+    "winRate": 0.0
+  },
+  {
+    "heroA": "Sun Wukong",
+    "heroB": "Diao Chan",
+    "games": 1,
+    "winRate": 1.0
+  },
+  {
+    "heroA": "Diao Chan",
+    "heroB": "Sun Wukong",
+    "games": 1,
+    "winRate": 0.0
+  },
+  {
+    "heroA": "Sun Wukong",
+    "heroB": "Miyamoto Musashi",
+    "games": 2,
+    "winRate": 0.5
+  },
+  {
+    "heroA": "Miyamoto Musashi",
+    "heroB": "Sun Wukong",
+    "games": 2,
+    "winRate": 0.5
+  },
+  {
+    "heroA": "Lu Bu",
+    "heroB": "Wang Zhaojun",
+    "games": 2,
+    "winRate": 0.5
+  },
+  {
+    "heroA": "Wang Zhaojun",
+    "heroB": "Lu Bu",
+    "games": 2,
+    "winRate": 0.5
+  },
+  {
+    "heroA": "Lu Bu",
+    "heroB": "Yao",
+    "games": 1,
+    "winRate": 1.0
+  },
+  {
+    "heroA": "Yao",
+    "heroB": "Lu Bu",
+    "games": 1,
+    "winRate": 0.0
+  },
+  {
+    "heroA": "Lu Bu",
+    "heroB": "Diao Chan",
+    "games": 2,
+    "winRate": 0.5
+  },
+  {
+    "heroA": "Diao Chan",
+    "heroB": "Lu Bu",
+    "games": 2,
+    "winRate": 0.5
+  },
+  {
+    "heroA": "Lu Bu",
+    "heroB": "Miyamoto Musashi",
+    "games": 1,
+    "winRate": 1.0
+  },
+  {
+    "heroA": "Miyamoto Musashi",
+    "heroB": "Lu Bu",
+    "games": 1,
+    "winRate": 0.0
+  },
+  {
+    "heroA": "Wang Zhaojun",
+    "heroB": "Mulan",
+    "games": 6,
+    "winRate": 1.0
+  },
+  {
+    "heroA": "Mulan",
+    "heroB": "Wang Zhaojun",
+    "games": 6,
+    "winRate": 0.0
+  },
+  {
+    "heroA": "Wang Zhaojun",
+    "heroB": "Zhao Yun",
+    "games": 1,
+    "winRate": 1.0
+  },
+  {
+    "heroA": "Zhao Yun",
+    "heroB": "Wang Zhaojun",
+    "games": 1,
+    "winRate": 0.0
+  },
+  {
+    "heroA": "Wang Zhaojun",
+    "heroB": "Zhuang Zhou",
+    "games": 2,
+    "winRate": 0.5
+  },
+  {
+    "heroA": "Zhuang Zhou",
+    "heroB": "Wang Zhaojun",
+    "games": 2,
+    "winRate": 0.5
+  },
+  {
+    "heroA": "Wang Zhaojun",
+    "heroB": "Wang Zhaojun",
+    "games": 2,
+    "winRate": 0.5
+  },
+  {
+    "heroA": "Zhuang Zhou",
+    "heroB": "Mulan",
+    "games": 3,
+    "winRate": 1.0
+  },
+  {
+    "heroA": "Mulan",
+    "heroB": "Zhuang Zhou",
+    "games": 3,
+    "winRate": 0.0
+  },
+  {
+    "heroA": "Zhuang Zhou",
+    "heroB": "Zhao Yun",
+    "games": 3,
+    "winRate": 1.0
+  },
+  {
+    "heroA": "Zhao Yun",
+    "heroB": "Zhuang Zhou",
+    "games": 3,
+    "winRate": 0.0
+  },
+  {
+    "heroA": "Zhuang Zhou",
+    "heroB": "Zhuang Zhou",
+    "games": 2,
+    "winRate": 0.5
+  },
+  {
+    "heroA": "Yao",
+    "heroB": "Mulan",
+    "games": 2,
+    "winRate": 1.0
+  },
+  {
+    "heroA": "Mulan",
+    "heroB": "Yao",
+    "games": 2,
+    "winRate": 0.0
+  },
+  {
+    "heroA": "Yao",
+    "heroB": "Zhao Yun",
+    "games": 1,
+    "winRate": 1.0
+  },
+  {
+    "heroA": "Zhao Yun",
+    "heroB": "Yao",
+    "games": 1,
+    "winRate": 0.0
+  },
+  {
+    "heroA": "Yao",
+    "heroB": "Zhuang Zhou",
+    "games": 1,
+    "winRate": 1.0
+  },
+  {
+    "heroA": "Zhuang Zhou",
+    "heroB": "Yao",
+    "games": 1,
+    "winRate": 0.0
+  },
+  {
+    "heroA": "Yao",
+    "heroB": "Wang Zhaojun",
+    "games": 1,
+    "winRate": 1.0
+  },
+  {
+    "heroA": "Wang Zhaojun",
+    "heroB": "Yao",
+    "games": 1,
+    "winRate": 0.0
+  },
+  {
+    "heroA": "Miyamoto Musashi",
+    "heroB": "Mulan",
+    "games": 2,
+    "winRate": 1.0
+  },
+  {
+    "heroA": "Mulan",
+    "heroB": "Miyamoto Musashi",
+    "games": 2,
+    "winRate": 0.0
+  },
+  {
+    "heroA": "Miyamoto Musashi",
+    "heroB": "Zhao Yun",
+    "games": 2,
+    "winRate": 0.5
+  },
+  {
+    "heroA": "Zhao Yun",
+    "heroB": "Miyamoto Musashi",
+    "games": 2,
+    "winRate": 0.5
+  },
+  {
+    "heroA": "Miyamoto Musashi",
+    "heroB": "Zhuang Zhou",
+    "games": 2,
+    "winRate": 1.0
+  },
+  {
+    "heroA": "Zhuang Zhou",
+    "heroB": "Miyamoto Musashi",
+    "games": 2,
+    "winRate": 0.0
+  },
+  {
+    "heroA": "Miyamoto Musashi",
+    "heroB": "Wang Zhaojun",
+    "games": 3,
+    "winRate": 0.333
+  },
+  {
+    "heroA": "Wang Zhaojun",
+    "heroB": "Miyamoto Musashi",
+    "games": 3,
+    "winRate": 0.667
+  },
+  {
+    "heroA": "Ying Zheng",
+    "heroB": "Mulan",
+    "games": 4,
+    "winRate": 0.75
+  },
+  {
+    "heroA": "Mulan",
+    "heroB": "Ying Zheng",
+    "games": 4,
+    "winRate": 0.25
+  },
+  {
+    "heroA": "Ying Zheng",
+    "heroB": "Zhao Yun",
+    "games": 3,
+    "winRate": 1.0
+  },
+  {
+    "heroA": "Zhao Yun",
+    "heroB": "Ying Zheng",
+    "games": 3,
+    "winRate": 0.0
+  },
+  {
+    "heroA": "Ying Zheng",
+    "heroB": "Wang Zhaojun",
+    "games": 1,
+    "winRate": 1.0
+  },
+  {
+    "heroA": "Wang Zhaojun",
+    "heroB": "Ying Zheng",
+    "games": 1,
+    "winRate": 0.0
+  },
+  {
+    "heroA": "Zhao Yun",
+    "heroB": "Li Bai",
+    "games": 1,
+    "winRate": 0.0
+  },
+  {
+    "heroA": "Li Bai",
+    "heroB": "Zhao Yun",
+    "games": 1,
+    "winRate": 1.0
+  },
+  {
+    "heroA": "Zhao Yun",
+    "heroB": "Zhou Yu",
+    "games": 2,
+    "winRate": 0.5
+  },
+  {
+    "heroA": "Zhou Yu",
+    "heroB": "Zhao Yun",
+    "games": 2,
+    "winRate": 0.5
+  },
+  {
+    "heroA": "Diaochan",
+    "heroB": "Zhang Fei",
+    "games": 4,
+    "winRate": 0.0
+  },
+  {
+    "heroA": "Zhang Fei",
+    "heroB": "Diaochan",
+    "games": 4,
+    "winRate": 1.0
+  },
+  {
+    "heroA": "Diaochan",
+    "heroB": "Zhou Yu",
+    "games": 1,
+    "winRate": 0.0
+  },
+  {
+    "heroA": "Zhou Yu",
+    "heroB": "Diaochan",
+    "games": 1,
+    "winRate": 1.0
+  },
+  {
+    "heroA": "Diaochan",
+    "heroB": "Angela",
+    "games": 2,
+    "winRate": 0.0
+  },
+  {
+    "heroA": "Angela",
+    "heroB": "Diaochan",
+    "games": 2,
+    "winRate": 1.0
+  },
+  {
+    "heroA": "Hou Yi",
+    "heroB": "Zhou Yu",
+    "games": 2,
+    "winRate": 0.5
+  },
+  {
+    "heroA": "Zhou Yu",
+    "heroB": "Hou Yi",
+    "games": 2,
+    "winRate": 0.5
+  },
+  {
+    "heroA": "Arthur",
+    "heroB": "Li Bai",
+    "games": 2,
+    "winRate": 0.5
+  },
+  {
+    "heroA": "Li Bai",
+    "heroB": "Arthur",
+    "games": 2,
+    "winRate": 0.5
+  },
+  {
+    "heroA": "Arthur",
+    "heroB": "Zhang Fei",
+    "games": 1,
+    "winRate": 0.0
+  },
+  {
+    "heroA": "Zhang Fei",
+    "heroB": "Arthur",
+    "games": 1,
+    "winRate": 1.0
+  },
+  {
+    "heroA": "Arthur",
+    "heroB": "Zhou Yu",
+    "games": 2,
+    "winRate": 0.5
+  },
+  {
+    "heroA": "Zhou Yu",
+    "heroB": "Arthur",
+    "games": 2,
+    "winRate": 0.5
+  },
+  {
+    "heroA": "Arthur",
+    "heroB": "Angela",
+    "games": 2,
+    "winRate": 0.5
+  },
+  {
+    "heroA": "Angela",
+    "heroB": "Arthur",
+    "games": 2,
+    "winRate": 0.5
+  },
+  {
+    "heroA": "Zhuang Zhou",
+    "heroB": "Zhou Yu",
+    "games": 1,
+    "winRate": 0.0
+  },
+  {
+    "heroA": "Zhou Yu",
+    "heroB": "Zhuang Zhou",
+    "games": 1,
+    "winRate": 1.0
+  },
+  {
+    "heroA": "Zhuang Zhou",
+    "heroB": "Angela",
+    "games": 1,
+    "winRate": 0.0
+  },
+  {
+    "heroA": "Angela",
+    "heroB": "Zhuang Zhou",
+    "games": 1,
+    "winRate": 1.0
+  },
+  {
+    "heroA": "Zhuang Zhou",
+    "heroB": "Hou Yi",
+    "games": 1,
+    "winRate": 0.0
+  },
+  {
+    "heroA": "Hou Yi",
+    "heroB": "Zhuang Zhou",
+    "games": 1,
+    "winRate": 1.0
+  },
+  {
+    "heroA": "Sun Wukong",
+    "heroB": "Hou Yi",
+    "games": 3,
+    "winRate": 0.667
+  },
+  {
+    "heroA": "Hou Yi",
+    "heroB": "Sun Wukong",
+    "games": 3,
+    "winRate": 0.333
+  },
+  {
+    "heroA": "Sun Wukong",
+    "heroB": "Zhou Yu",
+    "games": 3,
+    "winRate": 1.0
+  },
+  {
+    "heroA": "Zhou Yu",
+    "heroB": "Sun Wukong",
+    "games": 3,
+    "winRate": 0.0
+  },
+  {
+    "heroA": "Sun Wukong",
+    "heroB": "Mulan",
+    "games": 2,
+    "winRate": 1.0
+  },
+  {
+    "heroA": "Mulan",
+    "heroB": "Sun Wukong",
+    "games": 2,
+    "winRate": 0.0
+  },
+  {
+    "heroA": "Sun Wukong",
+    "heroB": "Zhao Yun",
+    "games": 2,
+    "winRate": 1.0
+  },
+  {
+    "heroA": "Zhao Yun",
+    "heroB": "Sun Wukong",
+    "games": 2,
+    "winRate": 0.0
+  },
+  {
+    "heroA": "Gongsun Li",
+    "heroB": "Lu Bu",
+    "games": 2,
+    "winRate": 1.0
+  },
+  {
+    "heroA": "Lu Bu",
+    "heroB": "Gongsun Li",
+    "games": 2,
+    "winRate": 0.0
+  },
+  {
+    "heroA": "Gongsun Li",
+    "heroB": "Zhou Yu",
+    "games": 4,
+    "winRate": 1.0
+  },
+  {
+    "heroA": "Zhou Yu",
+    "heroB": "Gongsun Li",
+    "games": 4,
+    "winRate": 0.0
+  },
+  {
+    "heroA": "Gongsun Li",
+    "heroB": "Zhao Yun",
+    "games": 2,
+    "winRate": 0.5
+  },
+  {
+    "heroA": "Zhao Yun",
+    "heroB": "Gongsun Li",
+    "games": 2,
+    "winRate": 0.5
+  },
+  {
+    "heroA": "Lu Bu",
+    "heroB": "Lu Bu",
+    "games": 2,
+    "winRate": 0.5
+  },
+  {
+    "heroA": "Lu Bu",
+    "heroB": "Zhou Yu",
+    "games": 1,
+    "winRate": 1.0
+  },
+  {
+    "heroA": "Zhou Yu",
+    "heroB": "Lu Bu",
+    "games": 1,
+    "winRate": 0.0
+  },
+  {
+    "heroA": "Lu Bu",
+    "heroB": "Zhao Yun",
+    "games": 1,
+    "winRate": 1.0
+  },
+  {
+    "heroA": "Zhao Yun",
+    "heroB": "Lu Bu",
+    "games": 1,
+    "winRate": 0.0
+  },
+  {
+    "heroA": "Diao Chan",
+    "heroB": "Angela",
+    "games": 3,
+    "winRate": 1.0
+  },
+  {
+    "heroA": "Angela",
+    "heroB": "Diao Chan",
+    "games": 3,
+    "winRate": 0.0
+  },
+  {
+    "heroA": "Diao Chan",
+    "heroB": "Gongsun Li",
+    "games": 1,
+    "winRate": 1.0
+  },
+  {
+    "heroA": "Gongsun Li",
+    "heroB": "Diao Chan",
+    "games": 1,
+    "winRate": 0.0
+  },
+  {
+    "heroA": "Wang Zhaojun",
+    "heroB": "Angela",
+    "games": 2,
+    "winRate": 1.0
+  },
+  {
+    "heroA": "Angela",
+    "heroB": "Wang Zhaojun",
+    "games": 2,
+    "winRate": 0.0
+  },
+  {
+    "heroA": "Wang Zhaojun",
+    "heroB": "Gongsun Li",
+    "games": 3,
+    "winRate": 1.0
+  },
+  {
+    "heroA": "Gongsun Li",
+    "heroB": "Wang Zhaojun",
+    "games": 3,
+    "winRate": 0.0
+  },
+  {
+    "heroA": "Mulan",
+    "heroB": "Zhou Yu",
+    "games": 2,
+    "winRate": 1.0
+  },
+  {
+    "heroA": "Zhou Yu",
+    "heroB": "Mulan",
+    "games": 2,
+    "winRate": 0.0
+  },
+  {
+    "heroA": "Mulan",
+    "heroB": "Bai Qi",
+    "games": 1,
+    "winRate": 1.0
+  },
+  {
+    "heroA": "Bai Qi",
+    "heroB": "Mulan",
+    "games": 1,
+    "winRate": 0.0
+  },
+  {
+    "heroA": "Gongsun Li",
+    "heroB": "Bai Qi",
+    "games": 4,
+    "winRate": 0.75
+  },
+  {
+    "heroA": "Bai Qi",
+    "heroB": "Gongsun Li",
+    "games": 4,
+    "winRate": 0.25
+  },
+  {
+    "heroA": "Gongsun Li",
+    "heroB": "Angela",
+    "games": 3,
+    "winRate": 1.0
+  },
+  {
+    "heroA": "Angela",
+    "heroB": "Gongsun Li",
+    "games": 3,
+    "winRate": 0.0
+  },
+  {
+    "heroA": "Gongsun Li",
+    "heroB": "Gongsun Li",
+    "games": 2,
+    "winRate": 0.5
+  },
+  {
+    "heroA": "Bai Qi",
+    "heroB": "Zhou Yu",
+    "games": 1,
+    "winRate": 1.0
+  },
+  {
+    "heroA": "Zhou Yu",
+    "heroB": "Bai Qi",
+    "games": 1,
+    "winRate": 0.0
+  },
+  {
+    "heroA": "Bai Qi",
+    "heroB": "Bai Qi",
+    "games": 2,
+    "winRate": 0.5
+  },
+  {
+    "heroA": "Bai Qi",
+    "heroB": "Lu Bu",
+    "games": 1,
+    "winRate": 1.0
+  },
+  {
+    "heroA": "Lu Bu",
+    "heroB": "Bai Qi",
+    "games": 1,
+    "winRate": 0.0
+  },
+  {
+    "heroA": "Diao Chan",
+    "heroB": "Ying Zheng",
+    "games": 4,
+    "winRate": 0.75
+  },
+  {
+    "heroA": "Ying Zheng",
+    "heroB": "Diao Chan",
+    "games": 4,
+    "winRate": 0.25
+  },
+  {
+    "heroA": "Diao Chan",
+    "heroB": "Arthur",
+    "games": 1,
+    "winRate": 0.0
+  },
+  {
+    "heroA": "Arthur",
+    "heroB": "Diao Chan",
+    "games": 1,
+    "winRate": 1.0
+  },
+  {
+    "heroA": "Diao Chan",
+    "heroB": "Yao",
+    "games": 1,
+    "winRate": 0.0
+  },
+  {
+    "heroA": "Yao",
+    "heroB": "Diao Chan",
+    "games": 1,
+    "winRate": 1.0
+  },
+  {
+    "heroA": "Diao Chan",
+    "heroB": "Mulan",
+    "games": 1,
+    "winRate": 0.0
+  },
+  {
+    "heroA": "Mulan",
+    "heroB": "Diao Chan",
+    "games": 1,
+    "winRate": 1.0
+  },
+  {
+    "heroA": "Diao Chan",
+    "heroB": "Diao Chan",
+    "games": 2,
+    "winRate": 0.5
+  },
+  {
+    "heroA": "Ying Zheng",
+    "heroB": "Ying Zheng",
+    "games": 2,
+    "winRate": 0.5
+  },
+  {
+    "heroA": "Ying Zheng",
+    "heroB": "Arthur",
+    "games": 1,
+    "winRate": 0.0
+  },
+  {
+    "heroA": "Arthur",
+    "heroB": "Ying Zheng",
+    "games": 1,
+    "winRate": 1.0
+  },
+  {
+    "heroA": "Ying Zheng",
+    "heroB": "Yao",
+    "games": 1,
+    "winRate": 0.0
+  },
+  {
+    "heroA": "Yao",
+    "heroB": "Ying Zheng",
+    "games": 1,
+    "winRate": 1.0
+  },
+  {
+    "heroA": "Li Bai",
+    "heroB": "Ying Zheng",
+    "games": 1,
+    "winRate": 0.0
+  },
+  {
+    "heroA": "Ying Zheng",
+    "heroB": "Li Bai",
+    "games": 1,
+    "winRate": 1.0
+  },
+  {
+    "heroA": "Li Bai",
+    "heroB": "Yao",
+    "games": 1,
+    "winRate": 0.0
+  },
+  {
+    "heroA": "Yao",
+    "heroB": "Li Bai",
+    "games": 1,
+    "winRate": 1.0
+  },
+  {
+    "heroA": "Li Bai",
+    "heroB": "Diao Chan",
+    "games": 1,
+    "winRate": 0.0
+  },
+  {
+    "heroA": "Diao Chan",
+    "heroB": "Li Bai",
+    "games": 1,
+    "winRate": 1.0
+  },
+  {
+    "heroA": "Zhou Yu",
+    "heroB": "Ying Zheng",
+    "games": 1,
+    "winRate": 0.0
+  },
+  {
+    "heroA": "Ying Zheng",
+    "heroB": "Zhou Yu",
+    "games": 1,
+    "winRate": 1.0
+  },
+  {
+    "heroA": "Angela",
+    "heroB": "Yao",
+    "games": 3,
+    "winRate": 0.0
+  },
+  {
+    "heroA": "Yao",
+    "heroB": "Angela",
+    "games": 3,
+    "winRate": 1.0
+  },
+  {
+    "heroA": "Wang Zhaojun",
+    "heroB": "Diaochan",
+    "games": 3,
+    "winRate": 1.0
+  },
+  {
+    "heroA": "Diaochan",
+    "heroB": "Wang Zhaojun",
+    "games": 3,
+    "winRate": 0.0
+  },
+  {
+    "heroA": "Li Bai",
+    "heroB": "Zhang Fei",
+    "games": 1,
+    "winRate": 1.0
+  },
+  {
+    "heroA": "Zhang Fei",
+    "heroB": "Li Bai",
+    "games": 1,
+    "winRate": 0.0
+  },
+  {
+    "heroA": "Angela",
+    "heroB": "Angela",
+    "games": 2,
+    "winRate": 0.5
+  },
+  {
+    "heroA": "Yao",
+    "heroB": "Arthur",
+    "games": 2,
+    "winRate": 1.0
+  },
+  {
+    "heroA": "Arthur",
+    "heroB": "Yao",
+    "games": 2,
+    "winRate": 0.0
+  },
+  {
+    "heroA": "Miyamoto Musashi",
+    "heroB": "Arthur",
+    "games": 2,
+    "winRate": 0.5
+  },
+  {
+    "heroA": "Arthur",
+    "heroB": "Miyamoto Musashi",
+    "games": 2,
+    "winRate": 0.5
+  },
+  {
+    "heroA": "Zhao Yun",
+    "heroB": "Arthur",
+    "games": 1,
+    "winRate": 1.0
+  },
+  {
+    "heroA": "Arthur",
+    "heroB": "Zhao Yun",
+    "games": 1,
+    "winRate": 0.0
+  },
+  {
+    "heroA": "Zhao Yun",
+    "heroB": "Bai Qi",
+    "games": 2,
+    "winRate": 1.0
+  },
+  {
+    "heroA": "Bai Qi",
+    "heroB": "Zhao Yun",
+    "games": 2,
+    "winRate": 0.0
+  },
+  {
+    "heroA": "Hou Yi",
+    "heroB": "Bai Qi",
+    "games": 2,
+    "winRate": 1.0
+  },
+  {
+    "heroA": "Bai Qi",
+    "heroB": "Hou Yi",
+    "games": 2,
+    "winRate": 0.0
+  },
+  {
+    "heroA": "Arthur",
+    "heroB": "Gongsun Li",
+    "games": 1,
+    "winRate": 1.0
+  },
+  {
+    "heroA": "Gongsun Li",
+    "heroB": "Arthur",
+    "games": 1,
+    "winRate": 0.0
+  },
+  {
+    "heroA": "Wang Zhaojun",
+    "heroB": "Marco Polo",
+    "games": 2,
+    "winRate": 1.0
+  },
+  {
+    "heroA": "Marco Polo",
+    "heroB": "Wang Zhaojun",
+    "games": 2,
+    "winRate": 0.0
+  },
+  {
+    "heroA": "Zhao Yun",
+    "heroB": "Mulan",
+    "games": 1,
+    "winRate": 1.0
+  },
+  {
+    "heroA": "Mulan",
+    "heroB": "Zhao Yun",
+    "games": 1,
+    "winRate": 0.0
+  },
+  {
+    "heroA": "Lu Bu",
+    "heroB": "Zhuang Zhou",
+    "games": 1,
+    "winRate": 0.0
+  },
+  {
+    "heroA": "Zhuang Zhou",
+    "heroB": "Lu Bu",
+    "games": 1,
+    "winRate": 1.0
+  },
+  {
+    "heroA": "Lu Bu",
+    "heroB": "Ying Zheng",
+    "games": 1,
+    "winRate": 0.0
+  },
+  {
+    "heroA": "Ying Zheng",
+    "heroB": "Lu Bu",
+    "games": 1,
+    "winRate": 1.0
+  },
+  {
+    "heroA": "Sun Wukong",
+    "heroB": "Diaochan",
+    "games": 1,
+    "winRate": 0.0
+  },
+  {
+    "heroA": "Diaochan",
+    "heroB": "Sun Wukong",
+    "games": 1,
+    "winRate": 1.0
+  },
+  {
+    "heroA": "Sun Wukong",
+    "heroB": "Zhuang Zhou",
+    "games": 1,
+    "winRate": 0.0
+  },
+  {
+    "heroA": "Zhuang Zhou",
+    "heroB": "Sun Wukong",
+    "games": 1,
+    "winRate": 1.0
+  },
+  {
+    "heroA": "Sun Wukong",
+    "heroB": "Ying Zheng",
+    "games": 4,
+    "winRate": 0.5
+  },
+  {
+    "heroA": "Ying Zheng",
+    "heroB": "Sun Wukong",
+    "games": 4,
+    "winRate": 0.5
+  },
+  {
+    "heroA": "Marco Polo",
+    "heroB": "Ying Zheng",
+    "games": 2,
+    "winRate": 1.0
+  },
+  {
+    "heroA": "Ying Zheng",
+    "heroB": "Marco Polo",
+    "games": 2,
+    "winRate": 0.0
+  },
+  {
+    "heroA": "Gongsun Li",
+    "heroB": "Ying Zheng",
+    "games": 4,
+    "winRate": 1.0
+  },
+  {
+    "heroA": "Ying Zheng",
+    "heroB": "Gongsun Li",
+    "games": 4,
+    "winRate": 0.0
+  },
+  {
+    "heroA": "Sun Wukong",
+    "heroB": "Bai Qi",
+    "games": 1,
+    "winRate": 1.0
+  },
+  {
+    "heroA": "Bai Qi",
+    "heroB": "Sun Wukong",
+    "games": 1,
+    "winRate": 0.0
+  },
+  {
+    "heroA": "Sun Wukong",
+    "heroB": "Angela",
+    "games": 1,
+    "winRate": 1.0
+  },
+  {
+    "heroA": "Angela",
+    "heroB": "Sun Wukong",
+    "games": 1,
+    "winRate": 0.0
+  },
+  {
+    "heroA": "Diaochan",
+    "heroB": "Ying Zheng",
+    "games": 3,
+    "winRate": 0.0
+  },
+  {
+    "heroA": "Ying Zheng",
+    "heroB": "Diaochan",
+    "games": 3,
+    "winRate": 1.0
+  },
+  {
+    "heroA": "Diaochan",
+    "heroB": "Marco Polo",
+    "games": 3,
+    "winRate": 0.0
+  },
+  {
+    "heroA": "Marco Polo",
+    "heroB": "Diaochan",
+    "games": 3,
+    "winRate": 1.0
+  },
+  {
+    "heroA": "Sun Wukong",
+    "heroB": "Zhang Fei",
+    "games": 1,
+    "winRate": 0.0
+  },
+  {
+    "heroA": "Zhang Fei",
+    "heroB": "Sun Wukong",
+    "games": 1,
+    "winRate": 1.0
+  }
+]

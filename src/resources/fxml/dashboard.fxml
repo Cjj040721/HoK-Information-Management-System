@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.image.*?>
+<?import javafx.geometry.Insets?>
+
+<StackPane xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml"
+           fx:controller="com.example.hokims.ui.DashboardController"
+           prefWidth="1024" prefHeight="768"
+           stylesheets="@../css/dashboard.css">
+
+    <!-- Background image for the dashboard -->
+    <ImageView fx:id="backgroundImage"
+               fitWidth="1024" fitHeight="768"
+               preserveRatio="false">
+        <image>
+            <Image url="/images/dashboard_bg.png"/>
+        </image>
+    </ImageView>
+
+    <!-- Main layout using BorderPane -->
+    <BorderPane prefWidth="1024" prefHeight="768">
+
+        <!-- Top section: Application title and current user display -->
+        <top>
+            <HBox spacing="10" alignment="CENTER_LEFT" styleClass="top-bar" prefHeight="60">
+                <padding>
+                    <Insets top="10" bottom="10" left="20" right="20"/>
+                </padding>
+                <Label text="Honor of Kings Dashboard" styleClass="title-label"/>
+                <Region HBox.hgrow="ALWAYS"/>
+                <Label fx:id="currentUserLabel" styleClass="user-label"/>
+            </HBox>
+        </top>
+
+        <!-- Left sidebar: Navigation menu -->
+        <left>
+            <VBox spacing="12" alignment="CENTER">
+                <padding>
+                    <Insets top="20" bottom="20" left="20" right="20"/>
+                </padding>
+
+                <!-- Navigation buttons -->
+                <Button fx:id="btnPlayers" text="Players" onAction="#showPlayerView" styleClass="sidebar-button"/>
+                <Button fx:id="btnHeroes" text="Heroes" onAction="#showHeroView" styleClass="sidebar-button"/>
+                <Button fx:id="btnEquipment" text="Equipment" onAction="#showEquipmentView" styleClass="sidebar-button"/>
+                <Button fx:id="btnRunes" text="Runes" onAction="#showRuneView" styleClass="sidebar-button"/>
+                <Button fx:id="btnTeams" text="Teams" onAction="#showTeamView" styleClass="sidebar-button"/>
+                <Button fx:id="btnMatches" text="Matches" onAction="#showMatchView" styleClass="sidebar-button"/>
+                <Button fx:id="btnAnalytics" text="Analytics" onAction="#showAnalyticsView" styleClass="sidebar-button"/>
+                <Button fx:id="btnRecommendations" text="Recommendations" onAction="#showRecommendationView" styleClass="sidebar-button"/>
+                <Button fx:id="btnSettings" text="Settings" onAction="#showSettingsView" styleClass="sidebar-button"/>
+
+                <Separator prefWidth="160"/>
+                <!-- Logout button -->
+                <Button text="Logout" onAction="#handleLogout" styleClass="logout-button"/>
+            </VBox>
+        </left>
+
+        <!-- Center section: Main content area -->
+        <center>
+            <StackPane alignment="CENTER">
+                <AnchorPane fx:id="contentPane"
+                            prefWidth="768" prefHeight="512"
+                            maxWidth="768" maxHeight="512"
+                            minWidth="768" minHeight="512"/>
+            </StackPane>
+        </center>
+
+        <!-- Bottom section: Floating action button (FAB) for match simulation -->
+        <bottom>
+            <AnchorPane prefHeight="80">
+                <HBox spacing="20" alignment="CENTER"
+                      AnchorPane.bottomAnchor="80.0"
+                      AnchorPane.leftAnchor="0.0"
+                      AnchorPane.rightAnchor="0.0">
+                    <Button fx:id="simulateMatchButton"
+                            text="Simulate Match"
+                            onAction="#handleSimulateMatch"
+                            styleClass="fab-button"/>
+                </HBox>
+            </AnchorPane>
+        </bottom>
+    </BorderPane>
+</StackPane>

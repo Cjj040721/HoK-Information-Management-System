@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane xmlns:fx="http://javafx.com/fxml" fx:controller="com.example.hokims.ui.TeamsController">
+    <children>
+
+        <!-- Main title label -->
+        <Label text="Teams List"
+               style="-fx-font-size: 24px; -fx-text-fill: yellow; -fx-font-weight: bold;"
+               AnchorPane.leftAnchor="0"
+               AnchorPane.rightAnchor="0"
+               AnchorPane.topAnchor="10"
+               alignment="center"/>
+
+        <!-- Instruction label for user interaction -->
+        <Label text="Double-click a team to view details."
+               style="-fx-font-size: 14px; -fx-text-fill: black; -fx-font-weight: bold;"
+               AnchorPane.leftAnchor="10"
+               AnchorPane.topAnchor="50"/>
+
+        <!-- TableView displaying team data -->
+        <TableView fx:id="teamTable" layoutX="-10" layoutY="80" prefWidth="750" prefHeight="400">
+            <columns>
+                <!-- Column for Team ID -->
+                <TableColumn fx:id="colId" text="ID"/>
+                <!-- Column for Team Name -->
+                <TableColumn fx:id="colName" text="Team Name"/>
+                <!-- Column for Member Count or List -->
+                <TableColumn fx:id="colMembers" text="Members"/>
+                <!-- Column for Average Level of Team Members -->
+                <TableColumn fx:id="colAvgLevel" text="Avg. Level"/>
+                <!-- Column for Average Win Rate -->
+                <TableColumn fx:id="colWinRate" text="Avg. Win Rate"/>
+            </columns>
+        </TableView>
+
+    </children>
+</AnchorPane>

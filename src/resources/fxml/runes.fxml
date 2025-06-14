@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.control.*?>
+
+<AnchorPane xmlns:fx="http://javafx.com/fxml" fx:controller="com.example.hokims.ui.RunesController"
+            prefWidth="800" prefHeight="600">
+    <children>
+
+        <!-- Main title label -->
+        <Label text="Runes List"
+               style="-fx-font-size: 24px; -fx-text-fill: yellow; -fx-font-weight: bold;"
+               AnchorPane.leftAnchor="0" AnchorPane.rightAnchor="0" AnchorPane.topAnchor="10"
+               alignment="center"/>
+
+        <!-- Instruction label -->
+        <Label text="Runes are sorted by usage count."
+               style="-fx-font-size: 14px; -fx-text-fill: black; -fx-font-weight: bold;"
+               AnchorPane.leftAnchor="20" AnchorPane.topAnchor="50"/>
+
+        <!-- TableView to display rune data -->
+        <TableView fx:id="runeTable"
+                   AnchorPane.topAnchor="80"
+                   AnchorPane.leftAnchor="20"
+                   AnchorPane.rightAnchor="20"
+                   AnchorPane.bottomAnchor="20">
+            <columns>
+                <!-- Column for Rune ID -->
+                <TableColumn fx:id="colId" text="ID"/>
+                <!-- Column for Rune Name -->
+                <TableColumn fx:id="colName" text="Name"/>
+                <!-- Column for Usage Count -->
+                <TableColumn fx:id="colUsageCount" text="Usage Count"/>
+            </columns>
+        </TableView>
+
+    </children>
+</AnchorPane>

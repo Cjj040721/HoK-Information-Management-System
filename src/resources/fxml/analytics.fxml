@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.chart.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane xmlns:fx="http://javafx.com/fxml"
+            fx:controller="com.example.hokims.ui.AnalyticsController"
+            prefWidth="780" prefHeight="540">
+
+    <!-- Root layout with padding around all edges -->
+    <children>
+        <TabPane fx:id="tabPane"
+                 AnchorPane.topAnchor="10" AnchorPane.leftAnchor="10"
+                 AnchorPane.rightAnchor="10" AnchorPane.bottomAnchor="10">
+
+            <!-- Tab 1: Hero Win Rate Visualization -->
+            <Tab text="Hero Win Rate">
+                <content>
+                    <!-- BarChart for Hero Win Rate -->
+                    <!-- xAxis and yAxis must be explicitly defined -->
+                    <BarChart fx:id="heroBarChart">
+                        <xAxis>
+                            <CategoryAxis fx:id="heroXAxis" side="BOTTOM" label="Hero"/>
+                        </xAxis>
+                        <yAxis>
+                            <NumberAxis side="LEFT" label="Win-Rate %"/>
+                        </yAxis>
+                    </BarChart>
+                </content>
+            </Tab>
+
+            <!-- Tab 2: Equipment Usage Statistics -->
+            <Tab text="Equipment Usage">
+                <content>
+                    <!-- PieChart for visualizing equipment usage distribution -->
+                    <AnchorPane>
+                        <PieChart fx:id="equipPieChart" prefWidth="600" prefHeight="400"
+                                  AnchorPane.topAnchor="10" AnchorPane.leftAnchor="10"
+                                  AnchorPane.rightAnchor="10" AnchorPane.bottomAnchor="10"/>
+                    </AnchorPane>
+                </content>
+            </Tab>
+
+            <!-- Tab 3: Player Leaderboard -->
+            <Tab text="Player Leaderboard">
+                <content>
+                    <!-- TableView with filtering options -->
+                    <VBox alignment="CENTER" spacing="8" prefHeight="480">
+                        <TableView fx:id="playerTable" prefHeight="440"/>
+                        <HBox alignment="CENTER_RIGHT" spacing="8">
+                            <Label text="Top:"/>
+                            <!-- ComboBox to choose the number of top players to display -->
+                            <ComboBox fx:id="topNCombo" prefWidth="80"/>
+                        </HBox>
+                    </VBox>
+                </content>
+            </Tab>
+
+        </TabPane>
+    </children>
+</AnchorPane>

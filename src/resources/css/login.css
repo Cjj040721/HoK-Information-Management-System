@@ -1,0 +1,20 @@
+#loginButton {
+    -fx-background-color: #f1c40f;
+    -fx-text-fill: black;
+    -fx-font-size: 16px;
+    -fx-font-weight: bold;
+    -fx-background-radius: 14;
+    -fx-pref-height: 48px;
+    -fx-pref-width: 140px;
+    -fx-padding: 0 0 0 0;
+    -fx-alignment: center;
+    -fx-effect: dropshadow(gaussian, rgba(0,0,0,0.25), 6, 0.3, 0, 2);
+}
+
+#loginButton:hover {
+    -fx-background-color: #ffd84d;
+}
+
+#loginButton:pressed {
+    -fx-background-color: #e0b93c;
+}

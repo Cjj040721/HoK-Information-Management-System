@@ -1,0 +1,82 @@
+[
+  {
+    "id": "R1000",
+    "name": "Resolve"
+  },
+  {
+    "id": "R1001",
+    "name": "Domination"
+  },
+  {
+    "id": "R1002",
+    "name": "Precision"
+  },
+  {
+    "id": "R1003",
+    "name": "Inspiration"
+  },
+  {
+    "id": "R1004",
+    "name": "Bravery"
+  },
+  {
+    "id": "R1005",
+    "name": "Agility"
+  },
+  {
+    "id": "R1006",
+    "name": "Ferocity"
+  },
+  {
+    "id": "R1007",
+    "name": "Iron Will"
+  },
+  {
+    "id": "R1008",
+    "name": "Mysticism"
+  },
+  {
+    "id": "R1009",
+    "name": "Tenacity"
+  },
+  {
+    "id": "R1010",
+    "name": "Spirit"
+  },
+  {
+    "id": "R1011",
+    "name": "Vitality"
+  },
+  {
+    "id": "R1012",
+    "name": "Insight"
+  },
+  {
+    "id": "R1013",
+    "name": "Bloodlust"
+  },
+  {
+    "id": "R1014",
+    "name": "Protection"
+  },
+  {
+    "id": "R1015",
+    "name": "Awakening"
+  },
+  {
+    "id": "R1016",
+    "name": "Corruption"
+  },
+  {
+    "id": "R1017",
+    "name": "Wisdom"
+  },
+  {
+    "id": "R1018",
+    "name": "Vengeance"
+  },
+  {
+    "id": "R1019",
+    "name": "Harmony"
+  }
+]

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.control.*?>
+
+<AnchorPane xmlns:fx="http://javafx.com/fxml" fx:controller="com.example.hokims.ui.HeroesController"
+            prefWidth="900" prefHeight="650">
+    <children>
+
+        <!-- Main title label -->
+        <Label text="Heroes List"
+               style="-fx-font-size: 24px; -fx-text-fill: yellow; -fx-font-weight: bold;"
+               AnchorPane.leftAnchor="0" AnchorPane.rightAnchor="0" AnchorPane.topAnchor="10"
+               alignment="center"/>
+
+        <!-- Instructional subtitle -->
+        <Label text="Click a hero to view its equipments, runes, and owning players."
+               style="-fx-font-size: 14px; -fx-text-fill: black; -fx-font-weight: bold;"
+               layoutX="20" layoutY="50"/>
+
+        <!-- Table displaying hero attributes -->
+        <TableView fx:id="heroTable" layoutX="0" layoutY="80" prefWidth="500" prefHeight="400">
+            <columns>
+                <!-- Column for Hero ID -->
+                <TableColumn fx:id="colId" text="ID"/>
+                <!-- Column for Hero Name -->
+                <TableColumn fx:id="colName" text="Name"/>
+                <!-- Column for Hero Type -->
+                <TableColumn fx:id="colType" text="Type"/>
+                <!-- Column for Hero Base HP -->
+                <TableColumn fx:id="colBaseHp" text="Base HP"/>
+                <!-- Column for Hero Base Attack -->
+                <TableColumn fx:id="colBaseAttack" text="Base Attack"/>
+            </columns>
+        </TableView>
+
+        <!-- Label and ListView for Hero Equipments -->
+        <Label text="Equipments" layoutX="520" layoutY="0"/>
+        <ListView fx:id="equipmentList" layoutX="520" layoutY="20" prefWidth="200" prefHeight="130"/>
+
+        <!-- Label and ListView for Players who own the selected Hero -->
+        <Label text="Players with this Hero" layoutX="520" layoutY="160"/>
+        <ListView fx:id="playerList" layoutX="520" layoutY="180" prefWidth="200" prefHeight="130"/>
+
+        <!-- Label and ListView for Hero Runes -->
+        <Label text="Runes" layoutX="520" layoutY="320"/>
+        <ListView fx:id="runeList" layoutX="520" layoutY="340" prefWidth="200" prefHeight="130"/>
+
+    </children>
+</AnchorPane>

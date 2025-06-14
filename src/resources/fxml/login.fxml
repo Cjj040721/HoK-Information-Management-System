@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.scene.image.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane fx:id="rootPane" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml"
+            fx:controller="com.example.hokims.ui.LoginController"
+            prefWidth="384" prefHeight="576" stylesheets="@/css/login.css">
+
+    <!-- Background image -->
+    <ImageView fitWidth="384" fitHeight="576" layoutX="0" layoutY="0">
+        <image>
+            <Image url="@/images/hok_login.png"/>
+        </image>
+    </ImageView>
+
+    <!-- Username input field -->
+    <TextField fx:id="usernameField"
+               layoutX="35" layoutY="341" prefWidth="315" prefHeight="38"
+               promptText="Username"
+               style="-fx-background-color: black;
+                      -fx-text-fill: white;
+                      -fx-prompt-text-fill: #aaaaaa;
+                      -fx-background-radius: 6;
+                      -fx-font-size: 12px;"/>
+
+    <!-- Password input field -->
+    <PasswordField fx:id="passwordField"
+                   layoutX="35" layoutY="391" prefWidth="315" prefHeight="38"
+                   promptText="Password"
+                   style="-fx-background-color: black;
+                          -fx-text-fill: white;
+                          -fx-prompt-text-fill: #aaaaaa;
+                          -fx-background-radius: 6;
+                          -fx-font-size: 12px;"/>
+
+    <!-- Login button -->
+    <Button fx:id="loginButton"
+            layoutX="122" layoutY="445"
+            text="Login"
+            onAction="#handleLogin"
+            id="loginButton"/>
+
+    <!-- Label to display login error messages -->
+    <Label fx:id="errorLabel"
+           layoutX="120" layoutY="510"
+           style="-fx-text-fill: red; -fx-font-size: 8px; -fx-font-weight: bold;"/>
+</AnchorPane>

@@ -1,0 +1,662 @@
+[
+  {
+    "id": "T1000",
+    "name": "Golden Phoenixes",
+    "members": [
+      {
+        "id": "P1029",
+        "name": "Laura Garcia",
+        "level": 27,
+        "hero": {
+          "id": "H1006",
+          "name": "Zhao Yun",
+          "type": "Warrior",
+          "baseHp": 811,
+          "baseAttack": 227
+        }
+      },
+      {
+        "id": "P1002",
+        "name": "Victor Xu",
+        "level": 12,
+        "hero": {
+          "id": "H1017",
+          "name": "Bai Qi",
+          "type": "Tank",
+          "baseHp": 911,
+          "baseAttack": 182
+        }
+      },
+      {
+        "id": "P1034",
+        "name": "Uma Lopez",
+        "level": 15,
+        "hero": {
+          "id": "H1016",
+          "name": "Wang Zhaojun",
+          "type": "Mage",
+          "baseHp": 1139,
+          "baseAttack": 183
+        }
+      },
+      {
+        "id": "P1006",
+        "name": "Ian Zimmer",
+        "level": 17,
+        "hero": {
+          "id": "H1017",
+          "name": "Bai Qi",
+          "type": "Tank",
+          "baseHp": 911,
+          "baseAttack": 182
+        }
+      },
+      {
+        "id": "P1003",
+        "name": "Wendy Nelson",
+        "level": 22,
+        "hero": {
+          "id": "H1012",
+          "name": "Zhang Fei",
+          "type": "Tank",
+          "baseHp": 1108,
+          "baseAttack": 251
+        }
+      }
+    ]
+  },
+  {
+    "id": "T1001",
+    "name": "Night Raiders",
+    "members": [
+      {
+        "id": "P1011",
+        "name": "Charlie Garcia",
+        "level": 22,
+        "hero": {
+          "id": "H1010",
+          "name": "Gongsun Li",
+          "type": "Marksman",
+          "baseHp": 1006,
+          "baseAttack": 221
+        }
+      },
+      {
+        "id": "P1038",
+        "name": "Ian Hughes",
+        "level": 22,
+        "hero": {
+          "id": "H1019",
+          "name": "Ying Zheng",
+          "type": "Mage",
+          "baseHp": 1199,
+          "baseAttack": 182
+        }
+      },
+      {
+        "id": "P1027",
+        "name": "Wendy Vance",
+        "level": 17,
+        "hero": {
+          "id": "H1005",
+          "name": "Miyamoto Musashi",
+          "type": "Assassin",
+          "baseHp": 823,
+          "baseAttack": 217
+        }
+      },
+      {
+        "id": "P1000",
+        "name": "Xander Davis",
+        "level": 29,
+        "hero": {
+          "id": "H1016",
+          "name": "Wang Zhaojun",
+          "type": "Mage",
+          "baseHp": 1139,
+          "baseAttack": 183
+        }
+      },
+      {
+        "id": "P1018",
+        "name": "George White",
+        "level": 25,
+        "hero": {
+          "id": "H1018",
+          "name": "Zhou Yu",
+          "type": "Mage",
+          "baseHp": 839,
+          "baseAttack": 256
+        }
+      }
+    ]
+  },
+  {
+    "id": "T1002",
+    "name": "Silent Rangers",
+    "members": [
+      {
+        "id": "P1032",
+        "name": "Diana Carter",
+        "level": 17,
+        "hero": {
+          "id": "H1005",
+          "name": "Miyamoto Musashi",
+          "type": "Assassin",
+          "baseHp": 823,
+          "baseAttack": 217
+        }
+      },
+      {
+        "id": "P1049",
+        "name": "Fiona Lopez",
+        "level": 21,
+        "hero": {
+          "id": "H1001",
+          "name": "Angela",
+          "type": "Mage",
+          "baseHp": 935,
+          "baseAttack": 234
+        }
+      },
+      {
+        "id": "P1035",
+        "name": "Uma Davis",
+        "level": 20,
+        "hero": {
+          "id": "H1019",
+          "name": "Ying Zheng",
+          "type": "Mage",
+          "baseHp": 1199,
+          "baseAttack": 182
+        }
+      },
+      {
+        "id": "P1013",
+        "name": "Alice Young",
+        "level": 27,
+        "hero": {
+          "id": "H1006",
+          "name": "Zhao Yun",
+          "type": "Warrior",
+          "baseHp": 811,
+          "baseAttack": 227
+        }
+      },
+      {
+        "id": "P1047",
+        "name": "Rachel Johnson",
+        "level": 29,
+        "hero": {
+          "id": "H1014",
+          "name": "Diaochan",
+          "type": "Mage",
+          "baseHp": 1105,
+          "baseAttack": 197
+        }
+      }
+    ]
+  },
+  {
+    "id": "T1003",
+    "name": "Golden Knights",
+    "members": [
+      {
+        "id": "P1024",
+        "name": "Diana Miller",
+        "level": 14,
+        "hero": {
+          "id": "H1014",
+          "name": "Diaochan",
+          "type": "Mage",
+          "baseHp": 1105,
+          "baseAttack": 197
+        }
+      },
+      {
+        "id": "P1039",
+        "name": "Rachel Garcia",
+        "level": 19,
+        "hero": {
+          "id": "H1011",
+          "name": "Mulan",
+          "type": "Warrior",
+          "baseHp": 1037,
+          "baseAttack": 246
+        }
+      },
+      {
+        "id": "P1001",
+        "name": "Hannah Evans",
+        "level": 24,
+        "hero": {
+          "id": "H1009",
+          "name": "Marco Polo",
+          "type": "Marksman",
+          "baseHp": 1146,
+          "baseAttack": 190
+        }
+      },
+      {
+        "id": "P1023",
+        "name": "Oscar Smith",
+        "level": 22,
+        "hero": {
+          "id": "H1009",
+          "name": "Marco Polo",
+          "type": "Marksman",
+          "baseHp": 1146,
+          "baseAttack": 190
+        }
+      },
+      {
+        "id": "P1031",
+        "name": "Ian Owens",
+        "level": 11,
+        "hero": {
+          "id": "H1017",
+          "name": "Bai Qi",
+          "type": "Tank",
+          "baseHp": 911,
+          "baseAttack": 182
+        }
+      }
+    ]
+  },
+  {
+    "id": "T1004",
+    "name": "Shadow Titans",
+    "members": [
+      {
+        "id": "P1043",
+        "name": "Victor Hughes",
+        "level": 26,
+        "hero": {
+          "id": "H1001",
+          "name": "Angela",
+          "type": "Mage",
+          "baseHp": 935,
+          "baseAttack": 234
+        }
+      },
+      {
+        "id": "P1019",
+        "name": "Yvonne Johnson",
+        "level": 18,
+        "hero": {
+          "id": "H1005",
+          "name": "Miyamoto Musashi",
+          "type": "Assassin",
+          "baseHp": 823,
+          "baseAttack": 217
+        }
+      },
+      {
+        "id": "P1042",
+        "name": "Laura Lopez",
+        "level": 12,
+        "hero": {
+          "id": "H1014",
+          "name": "Diaochan",
+          "type": "Mage",
+          "baseHp": 1105,
+          "baseAttack": 197
+        }
+      },
+      {
+        "id": "P1048",
+        "name": "Rachel Carter",
+        "level": 27,
+        "hero": {
+          "id": "H1006",
+          "name": "Zhao Yun",
+          "type": "Warrior",
+          "baseHp": 811,
+          "baseAttack": 227
+        }
+      },
+      {
+        "id": "P1016",
+        "name": "Steve Nelson",
+        "level": 14,
+        "hero": {
+          "id": "H1014",
+          "name": "Diaochan",
+          "type": "Mage",
+          "baseHp": 1105,
+          "baseAttack": 197
+        }
+      }
+    ]
+  },
+  {
+    "id": "T1005",
+    "name": "Shadow Knights",
+    "members": [
+      {
+        "id": "P1033",
+        "name": "Zack Brown",
+        "level": 17,
+        "hero": {
+          "id": "H1008",
+          "name": "Arthur",
+          "type": "Tank",
+          "baseHp": 1082,
+          "baseAttack": 254
+        }
+      },
+      {
+        "id": "P1022",
+        "name": "Mike Carter",
+        "level": 29,
+        "hero": {
+          "id": "H1001",
+          "name": "Angela",
+          "type": "Mage",
+          "baseHp": 935,
+          "baseAttack": 234
+        }
+      },
+      {
+        "id": "P1036",
+        "name": "Hannah Quinn",
+        "level": 16,
+        "hero": {
+          "id": "H1006",
+          "name": "Zhao Yun",
+          "type": "Warrior",
+          "baseHp": 811,
+          "baseAttack": 227
+        }
+      },
+      {
+        "id": "P1010",
+        "name": "Tina Anderson",
+        "level": 15,
+        "hero": {
+          "id": "H1016",
+          "name": "Wang Zhaojun",
+          "type": "Mage",
+          "baseHp": 1139,
+          "baseAttack": 183
+        }
+      },
+      {
+        "id": "P1012",
+        "name": "Tina Usher",
+        "level": 16,
+        "hero": {
+          "id": "H1001",
+          "name": "Angela",
+          "type": "Mage",
+          "baseHp": 935,
+          "baseAttack": 234
+        }
+      }
+    ]
+  },
+  {
+    "id": "T1006",
+    "name": "Thunder Falcons",
+    "members": [
+      {
+        "id": "P1015",
+        "name": "Uma Taylor",
+        "level": 19,
+        "hero": {
+          "id": "H1006",
+          "name": "Zhao Yun",
+          "type": "Warrior",
+          "baseHp": 811,
+          "baseAttack": 227
+        }
+      },
+      {
+        "id": "P1045",
+        "name": "Xander Owens",
+        "level": 30,
+        "hero": {
+          "id": "H1014",
+          "name": "Diaochan",
+          "type": "Mage",
+          "baseHp": 1105,
+          "baseAttack": 197
+        }
+      },
+      {
+        "id": "P1021",
+        "name": "Laura Smith",
+        "level": 12,
+        "hero": {
+          "id": "H1011",
+          "name": "Mulan",
+          "type": "Warrior",
+          "baseHp": 1037,
+          "baseAttack": 246
+        }
+      },
+      {
+        "id": "P1037",
+        "name": "Zack Franklin",
+        "level": 30,
+        "hero": {
+          "id": "H1006",
+          "name": "Zhao Yun",
+          "type": "Warrior",
+          "baseHp": 811,
+          "baseAttack": 227
+        }
+      },
+      {
+        "id": "P1041",
+        "name": "Charlie Brown",
+        "level": 24,
+        "hero": {
+          "id": "H1014",
+          "name": "Diaochan",
+          "type": "Mage",
+          "baseHp": 1105,
+          "baseAttack": 197
+        }
+      }
+    ]
+  },
+  {
+    "id": "T1007",
+    "name": "Iron Titans",
+    "members": [
+      {
+        "id": "P1007",
+        "name": "Yvonne Klein",
+        "level": 15,
+        "hero": {
+          "id": "H1014",
+          "name": "Diaochan",
+          "type": "Mage",
+          "baseHp": 1105,
+          "baseAttack": 197
+        }
+      },
+      {
+        "id": "P1025",
+        "name": "Kevin Irwin",
+        "level": 19,
+        "hero": {
+          "id": "H1005",
+          "name": "Miyamoto Musashi",
+          "type": "Assassin",
+          "baseHp": 823,
+          "baseAttack": 217
+        }
+      },
+      {
+        "id": "P1026",
+        "name": "Tina Irwin",
+        "level": 25,
+        "hero": {
+          "id": "H1014",
+          "name": "Diaochan",
+          "type": "Mage",
+          "baseHp": 1105,
+          "baseAttack": 197
+        }
+      },
+      {
+        "id": "P1020",
+        "name": "Fiona Robinson",
+        "level": 28,
+        "hero": {
+          "id": "H1002",
+          "name": "Sun Wukong",
+          "type": "Assassin",
+          "baseHp": 1090,
+          "baseAttack": 227
+        }
+      },
+      {
+        "id": "P1009",
+        "name": "Rachel Davis",
+        "level": 27,
+        "hero": {
+          "id": "H1011",
+          "name": "Mulan",
+          "type": "Warrior",
+          "baseHp": 1037,
+          "baseAttack": 246
+        }
+      }
+    ]
+  },
+  {
+    "id": "T1008",
+    "name": "Storm Knights",
+    "members": [
+      {
+        "id": "P1008",
+        "name": "Edward Garcia",
+        "level": 13,
+        "hero": {
+          "id": "H1017",
+          "name": "Bai Qi",
+          "type": "Tank",
+          "baseHp": 911,
+          "baseAttack": 182
+        }
+      },
+      {
+        "id": "P1014",
+        "name": "Alice Xu",
+        "level": 21,
+        "hero": {
+          "id": "H1007",
+          "name": "Diao Chan",
+          "type": "Mage",
+          "baseHp": 981,
+          "baseAttack": 260
+        }
+      },
+      {
+        "id": "P1030",
+        "name": "Mike Davis",
+        "level": 25,
+        "hero": {
+          "id": "H1004",
+          "name": "Hou Yi",
+          "type": "Marksman",
+          "baseHp": 818,
+          "baseAttack": 236
+        }
+      },
+      {
+        "id": "P1017",
+        "name": "Nina Hughes",
+        "level": 12,
+        "hero": {
+          "id": "H1001",
+          "name": "Angela",
+          "type": "Mage",
+          "baseHp": 935,
+          "baseAttack": 234
+        }
+      },
+      {
+        "id": "P1046",
+        "name": "Bob Anderson",
+        "level": 17,
+        "hero": {
+          "id": "H1006",
+          "name": "Zhao Yun",
+          "type": "Warrior",
+          "baseHp": 811,
+          "baseAttack": 227
+        }
+      }
+    ]
+  },
+  {
+    "id": "T1009",
+    "name": "Golden Lords",
+    "members": [
+      {
+        "id": "P1028",
+        "name": "Uma Carter",
+        "level": 13,
+        "hero": {
+          "id": "H1014",
+          "name": "Diaochan",
+          "type": "Mage",
+          "baseHp": 1105,
+          "baseAttack": 197
+        }
+      },
+      {
+        "id": "P1044",
+        "name": "Wendy Usher",
+        "level": 21,
+        "hero": {
+          "id": "H1019",
+          "name": "Ying Zheng",
+          "type": "Mage",
+          "baseHp": 1199,
+          "baseAttack": 182
+        }
+      },
+      {
+        "id": "P1004",
+        "name": "Wendy Robinson",
+        "level": 30,
+        "hero": {
+          "id": "H1006",
+          "name": "Zhao Yun",
+          "type": "Warrior",
+          "baseHp": 811,
+          "baseAttack": 227
+        }
+      },
+      {
+        "id": "P1005",
+        "name": "Victor Irwin",
+        "level": 16,
+        "hero": {
+          "id": "H1012",
+          "name": "Zhang Fei",
+          "type": "Tank",
+          "baseHp": 1108,
+          "baseAttack": 251
+        }
+      },
+      {
+        "id": "P1040",
+        "name": "Charlie Hughes",
+        "level": 12,
+        "hero": {
+          "id": "H1011",
+          "name": "Mulan",
+          "type": "Warrior",
+          "baseHp": 1037,
+          "baseAttack": 246
+        }
+      }
+    ]
+  }
+]

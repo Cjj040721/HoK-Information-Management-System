@@ -1,0 +1,812 @@
+[
+  {
+    "id": "P1000",
+    "name": "Xander Davis",
+    "level": 29,
+    "winRate": 0.88,
+    "rank": "Gold",
+    "heroes": [
+      "H1016",
+      "H1000",
+      "H1003"
+    ],
+    "team": {
+      "id": "T1001",
+      "name": "Night Raiders"
+    }
+  },
+  {
+    "id": "P1001",
+    "name": "Hannah Evans",
+    "level": 24,
+    "winRate": 0.58,
+    "rank": "Diamond",
+    "heroes": [
+      "H1009",
+      "H1016",
+      "H1002"
+    ],
+    "team": {
+      "id": "T1003",
+      "name": "Golden Knights"
+    }
+  },
+  {
+    "id": "P1002",
+    "name": "Victor Xu",
+    "level": 12,
+    "winRate": 0.46,
+    "rank": "Silver",
+    "heroes": [
+      "H1017",
+      "H1008",
+      "H1000"
+    ],
+    "team": {
+      "id": "T1000",
+      "name": "Golden Phoenixes"
+    }
+  },
+  {
+    "id": "P1003",
+    "name": "Wendy Nelson",
+    "level": 22,
+    "winRate": 0.83,
+    "rank": "Silver",
+    "heroes": [
+      "H1012",
+      "H1010",
+      "H1003"
+    ],
+    "team": {
+      "id": "T1000",
+      "name": "Golden Phoenixes"
+    }
+  },
+  {
+    "id": "P1004",
+    "name": "Wendy Robinson",
+    "level": 30,
+    "winRate": 0.43,
+    "rank": "Bronze",
+    "heroes": [
+      "H1006",
+      "H1005",
+      "H1019"
+    ],
+    "team": {
+      "id": "T1009",
+      "name": "Golden Lords"
+    }
+  },
+  {
+    "id": "P1005",
+    "name": "Victor Irwin",
+    "level": 16,
+    "winRate": 0.33,
+    "rank": "Bronze",
+    "heroes": [
+      "H1012",
+      "H1016",
+      "H1007",
+      "H1013"
+    ],
+    "team": {
+      "id": "T1009",
+      "name": "Golden Lords"
+    }
+  },
+  {
+    "id": "P1006",
+    "name": "Ian Zimmer",
+    "level": 17,
+    "winRate": 0.6,
+    "rank": "Master",
+    "heroes": [
+      "H1017",
+      "H1004",
+      "H1003"
+    ],
+    "team": {
+      "id": "T1000",
+      "name": "Golden Phoenixes"
+    }
+  },
+  {
+    "id": "P1007",
+    "name": "Yvonne Klein",
+    "level": 15,
+    "winRate": 0.37,
+    "rank": "Diamond",
+    "heroes": [
+      "H1014",
+      "H1017",
+      "H1008"
+    ],
+    "team": {
+      "id": "T1007",
+      "name": "Iron Titans"
+    }
+  },
+  {
+    "id": "P1008",
+    "name": "Edward Garcia",
+    "level": 13,
+    "winRate": 0.73,
+    "rank": "Gold",
+    "heroes": [
+      "H1017",
+      "H1015",
+      "H1004",
+      "H1008"
+    ],
+    "team": {
+      "id": "T1008",
+      "name": "Storm Knights"
+    }
+  },
+  {
+    "id": "P1009",
+    "name": "Rachel Davis",
+    "level": 27,
+    "winRate": 0.77,
+    "rank": "Gold",
+    "heroes": [
+      "H1011",
+      "H1005",
+      "H1017"
+    ],
+    "team": {
+      "id": "T1007",
+      "name": "Iron Titans"
+    }
+  },
+  {
+    "id": "P1010",
+    "name": "Tina Anderson",
+    "level": 15,
+    "winRate": 0.89,
+    "rank": "King",
+    "heroes": [
+      "H1016",
+      "H1018",
+      "H1000"
+    ],
+    "team": {
+      "id": "T1005",
+      "name": "Shadow Knights"
+    }
+  },
+  {
+    "id": "P1011",
+    "name": "Charlie Garcia",
+    "level": 22,
+    "winRate": 0.62,
+    "rank": "King",
+    "heroes": [
+      "H1010",
+      "H1007",
+      "H1019"
+    ],
+    "team": {
+      "id": "T1001",
+      "name": "Night Raiders"
+    }
+  },
+  {
+    "id": "P1012",
+    "name": "Tina Usher",
+    "level": 16,
+    "winRate": 0.38,
+    "rank": "Diamond",
+    "heroes": [
+      "H1001",
+      "H1008",
+      "H1009"
+    ],
+    "team": {
+      "id": "T1005",
+      "name": "Shadow Knights"
+    }
+  },
+  {
+    "id": "P1013",
+    "name": "Alice Young",
+    "level": 27,
+    "winRate": 0.86,
+    "rank": "Bronze",
+    "heroes": [
+      "H1006",
+      "H1015",
+      "H1010"
+    ],
+    "team": {
+      "id": "T1002",
+      "name": "Silent Rangers"
+    }
+  },
+  {
+    "id": "P1014",
+    "name": "Alice Xu",
+    "level": 21,
+    "winRate": 0.49,
+    "rank": "Master",
+    "heroes": [
+      "H1007",
+      "H1000",
+      "H1003"
+    ],
+    "team": {
+      "id": "T1008",
+      "name": "Storm Knights"
+    }
+  },
+  {
+    "id": "P1015",
+    "name": "Uma Taylor",
+    "level": 19,
+    "winRate": 0.76,
+    "rank": "Silver",
+    "heroes": [
+      "H1006",
+      "H1005",
+      "H1000"
+    ],
+    "team": {
+      "id": "T1006",
+      "name": "Thunder Falcons"
+    }
+  },
+  {
+    "id": "P1016",
+    "name": "Steve Nelson",
+    "level": 14,
+    "winRate": 0.81,
+    "rank": "Diamond",
+    "heroes": [
+      "H1014",
+      "H1011",
+      "H1009"
+    ],
+    "team": {
+      "id": "T1004",
+      "name": "Shadow Titans"
+    }
+  },
+  {
+    "id": "P1017",
+    "name": "Nina Hughes",
+    "level": 12,
+    "winRate": 0.89,
+    "rank": "Master",
+    "heroes": [
+      "H1001",
+      "H1007",
+      "H1008"
+    ],
+    "team": {
+      "id": "T1008",
+      "name": "Storm Knights"
+    }
+  },
+  {
+    "id": "P1018",
+    "name": "George White",
+    "level": 25,
+    "winRate": 0.78,
+    "rank": "Platinum",
+    "heroes": [
+      "H1018",
+      "H1010",
+      "H1003"
+    ],
+    "team": {
+      "id": "T1001",
+      "name": "Night Raiders"
+    }
+  },
+  {
+    "id": "P1019",
+    "name": "Yvonne Johnson",
+    "level": 18,
+    "winRate": 0.35,
+    "rank": "Master",
+    "heroes": [
+      "H1005",
+      "H1018",
+      "H1007"
+    ],
+    "team": {
+      "id": "T1004",
+      "name": "Shadow Titans"
+    }
+  },
+  {
+    "id": "P1020",
+    "name": "Fiona Robinson",
+    "level": 28,
+    "winRate": 0.36,
+    "rank": "Gold",
+    "heroes": [
+      "H1002",
+      "H1015",
+      "H1000"
+    ],
+    "team": {
+      "id": "T1007",
+      "name": "Iron Titans"
+    }
+  },
+  {
+    "id": "P1021",
+    "name": "Laura Smith",
+    "level": 12,
+    "winRate": 0.71,
+    "rank": "Bronze",
+    "heroes": [
+      "H1011",
+      "H1005",
+      "H1016"
+    ],
+    "team": {
+      "id": "T1006",
+      "name": "Thunder Falcons"
+    }
+  },
+  {
+    "id": "P1022",
+    "name": "Mike Carter",
+    "level": 29,
+    "winRate": 0.52,
+    "rank": "Master",
+    "heroes": [
+      "H1001",
+      "H1017",
+      "H1002"
+    ],
+    "team": {
+      "id": "T1005",
+      "name": "Shadow Knights"
+    }
+  },
+  {
+    "id": "P1023",
+    "name": "Oscar Smith",
+    "level": 22,
+    "winRate": 0.59,
+    "rank": "Silver",
+    "heroes": [
+      "H1009",
+      "H1016",
+      "H1018",
+      "H1010"
+    ],
+    "team": {
+      "id": "T1003",
+      "name": "Golden Knights"
+    }
+  },
+  {
+    "id": "P1024",
+    "name": "Diana Miller",
+    "level": 14,
+    "winRate": 0.47,
+    "rank": "Silver",
+    "heroes": [
+      "H1014",
+      "H1007",
+      "H1004",
+      "H1015"
+    ],
+    "team": {
+      "id": "T1003",
+      "name": "Golden Knights"
+    }
+  },
+  {
+    "id": "P1025",
+    "name": "Kevin Irwin",
+    "level": 19,
+    "winRate": 0.6,
+    "rank": "Gold",
+    "heroes": [
+      "H1005",
+      "H1010",
+      "H1013"
+    ],
+    "team": {
+      "id": "T1007",
+      "name": "Iron Titans"
+    }
+  },
+  {
+    "id": "P1026",
+    "name": "Tina Irwin",
+    "level": 25,
+    "winRate": 0.91,
+    "rank": "Silver",
+    "heroes": [
+      "H1014",
+      "H1017",
+      "H1004"
+    ],
+    "team": {
+      "id": "T1007",
+      "name": "Iron Titans"
+    }
+  },
+  {
+    "id": "P1027",
+    "name": "Wendy Vance",
+    "level": 17,
+    "winRate": 0.81,
+    "rank": "Master",
+    "heroes": [
+      "H1005",
+      "H1010",
+      "H1013"
+    ],
+    "team": {
+      "id": "T1001",
+      "name": "Night Raiders"
+    }
+  },
+  {
+    "id": "P1028",
+    "name": "Uma Carter",
+    "level": 13,
+    "winRate": 0.88,
+    "rank": "Bronze",
+    "heroes": [
+      "H1014",
+      "H1015",
+      "H1013"
+    ],
+    "team": {
+      "id": "T1009",
+      "name": "Golden Lords"
+    }
+  },
+  {
+    "id": "P1029",
+    "name": "Laura Garcia",
+    "level": 27,
+    "winRate": 0.69,
+    "rank": "Diamond",
+    "heroes": [
+      "H1006",
+      "H1005",
+      "H1010"
+    ],
+    "team": {
+      "id": "T1000",
+      "name": "Golden Phoenixes"
+    }
+  },
+  {
+    "id": "P1030",
+    "name": "Mike Davis",
+    "level": 25,
+    "winRate": 0.5,
+    "rank": "Master",
+    "heroes": [
+      "H1004",
+      "H1015",
+      "H1013"
+    ],
+    "team": {
+      "id": "T1008",
+      "name": "Storm Knights"
+    }
+  },
+  {
+    "id": "P1031",
+    "name": "Ian Owens",
+    "level": 11,
+    "winRate": 0.61,
+    "rank": "Diamond",
+    "heroes": [
+      "H1017",
+      "H1004",
+      "H1002"
+    ],
+    "team": {
+      "id": "T1003",
+      "name": "Golden Knights"
+    }
+  },
+  {
+    "id": "P1032",
+    "name": "Diana Carter",
+    "level": 17,
+    "winRate": 0.5,
+    "rank": "King",
+    "heroes": [
+      "H1005",
+      "H1002",
+      "H1013"
+    ],
+    "team": {
+      "id": "T1002",
+      "name": "Silent Rangers"
+    }
+  },
+  {
+    "id": "P1033",
+    "name": "Zack Brown",
+    "level": 17,
+    "winRate": 0.9,
+    "rank": "Silver",
+    "heroes": [
+      "H1008",
+      "H1004",
+      "H1015"
+    ],
+    "team": {
+      "id": "T1005",
+      "name": "Shadow Knights"
+    }
+  },
+  {
+    "id": "P1034",
+    "name": "Uma Lopez",
+    "level": 15,
+    "winRate": 0.4,
+    "rank": "Platinum",
+    "heroes": [
+      "H1016",
+      "H1018",
+      "H1019"
+    ],
+    "team": {
+      "id": "T1000",
+      "name": "Golden Phoenixes"
+    }
+  },
+  {
+    "id": "P1035",
+    "name": "Uma Davis",
+    "level": 20,
+    "winRate": 0.71,
+    "rank": "Gold",
+    "heroes": [
+      "H1019",
+      "H1000",
+      "H1013"
+    ],
+    "team": {
+      "id": "T1002",
+      "name": "Silent Rangers"
+    }
+  },
+  {
+    "id": "P1036",
+    "name": "Hannah Quinn",
+    "level": 16,
+    "winRate": 0.69,
+    "rank": "Silver",
+    "heroes": [
+      "H1006",
+      "H1012",
+      "H1017"
+    ],
+    "team": {
+      "id": "T1005",
+      "name": "Shadow Knights"
+    }
+  },
+  {
+    "id": "P1037",
+    "name": "Zack Franklin",
+    "level": 30,
+    "winRate": 0.61,
+    "rank": "Silver",
+    "heroes": [
+      "H1006",
+      "H1009",
+      "H1002"
+    ],
+    "team": {
+      "id": "T1006",
+      "name": "Thunder Falcons"
+    }
+  },
+  {
+    "id": "P1038",
+    "name": "Ian Hughes",
+    "level": 22,
+    "winRate": 0.73,
+    "rank": "King",
+    "heroes": [
+      "H1019",
+      "H1011",
+      "H1008",
+      "H1010"
+    ],
+    "team": {
+      "id": "T1001",
+      "name": "Night Raiders"
+    }
+  },
+  {
+    "id": "P1039",
+    "name": "Rachel Garcia",
+    "level": 19,
+    "winRate": 0.7,
+    "rank": "Diamond",
+    "heroes": [
+      "H1011",
+      "H1012",
+      "H1010"
+    ],
+    "team": {
+      "id": "T1003",
+      "name": "Golden Knights"
+    }
+  },
+  {
+    "id": "P1040",
+    "name": "Charlie Hughes",
+    "level": 12,
+    "winRate": 0.56,
+    "rank": "Silver",
+    "heroes": [
+      "H1011",
+      "H1006",
+      "H1013"
+    ],
+    "team": {
+      "id": "T1009",
+      "name": "Golden Lords"
+    }
+  },
+  {
+    "id": "P1041",
+    "name": "Charlie Brown",
+    "level": 24,
+    "winRate": 0.75,
+    "rank": "Master",
+    "heroes": [
+      "H1014",
+      "H1006",
+      "H1016"
+    ],
+    "team": {
+      "id": "T1006",
+      "name": "Thunder Falcons"
+    }
+  },
+  {
+    "id": "P1042",
+    "name": "Laura Lopez",
+    "level": 12,
+    "winRate": 0.61,
+    "rank": "King",
+    "heroes": [
+      "H1014",
+      "H1016",
+      "H1018",
+      "H1015"
+    ],
+    "team": {
+      "id": "T1004",
+      "name": "Shadow Titans"
+    }
+  },
+  {
+    "id": "P1043",
+    "name": "Victor Hughes",
+    "level": 26,
+    "winRate": 0.74,
+    "rank": "Platinum",
+    "heroes": [
+      "H1001",
+      "H1018",
+      "H1010",
+      "H1013"
+    ],
+    "team": {
+      "id": "T1004",
+      "name": "Shadow Titans"
+    }
+  },
+  {
+    "id": "P1044",
+    "name": "Wendy Usher",
+    "level": 21,
+    "winRate": 0.31,
+    "rank": "Master",
+    "heroes": [
+      "H1019",
+      "H1007",
+      "H1002",
+      "H1012"
+    ],
+    "team": {
+      "id": "T1009",
+      "name": "Golden Lords"
+    }
+  },
+  {
+    "id": "P1045",
+    "name": "Xander Owens",
+    "level": 30,
+    "winRate": 0.72,
+    "rank": "Master",
+    "heroes": [
+      "H1014",
+      "H1000",
+      "H1003"
+    ],
+    "team": {
+      "id": "T1006",
+      "name": "Thunder Falcons"
+    }
+  },
+  {
+    "id": "P1046",
+    "name": "Bob Anderson",
+    "level": 17,
+    "winRate": 0.35,
+    "rank": "Platinum",
+    "heroes": [
+      "H1006",
+      "H1010",
+      "H1016",
+      "H1000"
+    ],
+    "team": {
+      "id": "T1008",
+      "name": "Storm Knights"
+    }
+  },
+  {
+    "id": "P1047",
+    "name": "Rachel Johnson",
+    "level": 29,
+    "winRate": 0.33,
+    "rank": "Master",
+    "heroes": [
+      "H1014",
+      "H1011",
+      "H1007"
+    ],
+    "team": {
+      "id": "T1002",
+      "name": "Silent Rangers"
+    }
+  },
+  {
+    "id": "P1048",
+    "name": "Rachel Carter",
+    "level": 27,
+    "winRate": 0.56,
+    "rank": "King",
+    "heroes": [
+      "H1006",
+      "H1007",
+      "H1019"
+    ],
+    "team": {
+      "id": "T1004",
+      "name": "Shadow Titans"
+    }
+  },
+  {
+    "id": "P1049",
+    "name": "Fiona Lopez",
+    "level": 21,
+    "winRate": 0.54,
+    "rank": "Master",
+    "heroes": [
+      "H1001",
+      "H1012",
+      "H1008",
+      "H1002"
+    ],
+    "team": {
+      "id": "T1002",
+      "name": "Silent Rangers"
+    }
+  }
+]

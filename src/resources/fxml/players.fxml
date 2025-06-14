@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane xmlns:fx="http://javafx.com/fxml" fx:controller="com.example.hokims.ui.PlayersController">
+    <children>
+
+        <!-- Main title label -->
+        <Label text="Players List"
+               styleClass="title-label"
+               AnchorPane.leftAnchor="0"
+               AnchorPane.rightAnchor="0"
+               AnchorPane.topAnchor="10"
+               alignment="center"/>
+
+        <!-- Instructional label for user interaction -->
+        <Label text="Double-click a player to view details."
+               styleClass="double-click-label"
+               AnchorPane.leftAnchor="10"
+               AnchorPane.topAnchor="50"/>
+
+        <!-- Text field for searching players by name -->
+        <TextField fx:id="searchField"
+                   promptText="Search by player name"
+                   AnchorPane.leftAnchor="10"
+                   AnchorPane.topAnchor="80"
+                   AnchorPane.rightAnchor="250"/>
+
+        <!-- Button to sort the table by player rank -->
+        <Button fx:id="sortByRankButton"
+                text="Sort by Rank"
+                AnchorPane.topAnchor="80"
+                AnchorPane.rightAnchor="130"/>
+
+        <!-- Button to sort the table by player level -->
+        <Button fx:id="sortByLevelButton"
+                text="Sort by Level"
+                AnchorPane.topAnchor="80"
+                AnchorPane.rightAnchor="10"/>
+
+        <!-- TableView to display player information -->
+        <TableView fx:id="playerTable"
+                   AnchorPane.topAnchor="120"
+                   AnchorPane.leftAnchor="10"
+                   AnchorPane.rightAnchor="10"
+                   AnchorPane.bottomAnchor="10">
+            <columns>
+                <!-- Column for Player ID -->
+                <TableColumn fx:id="colId" text="ID"/>
+                <!-- Column for Player Name -->
+                <TableColumn fx:id="colName" text="Name"/>
+                <!-- Column for Player Level -->
+                <TableColumn fx:id="colLevel" text="Level"/>
+                <!-- Column for Player Rank -->
+                <TableColumn fx:id="colRank" text="Rank"/>
+                <!-- Column for Team name the player belongs to -->
+                <TableColumn fx:id="colTeam" text="Team"/>
+            </columns>
+        </TableView>
+    </children>
+</AnchorPane>
