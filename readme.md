@@ -1,210 +1,155 @@
-# Honor of Kings – Information Management System (HoK‑IMS)
+<div align="center">
 
-> A desktop-based JavaFX application for managing in-game assets and simulating match data from the mobile MOBA *Honor of Kings*.
+# HoK Information Management System
 
----
+**A JavaFX desktop workspace for Honor of Kings data, analytics, and match experiments.**
 
-## 📑 Table of Contents
+Manage players, heroes, equipment, runes, teams, and matches; explore recommendations and analytics; and run turn-based combat simulations through a local Java desktop application.
 
-1. [Project Overview](#project-overview)
-2. [Features](#features)
-3. [Tech Stack & Architecture](#tech-stack--architecture)
-4. [Folder Structure](#folder-structure)
-5. [Getting Started](#getting-started)
-6. [Running & Debugging](#running--debugging)
-7. [Testing & QA](#testing--qa)
-8. [Troubleshooting](#troubleshooting)
-9. [Contributing](#contributing)
-10. [License](#license)
-11. [Acknowledgments](#acknowledgments)
+[![Java](https://img.shields.io/badge/Java-21-ED8B00?logo=openjdk&logoColor=white)](https://openjdk.org/)
+[![JavaFX](https://img.shields.io/badge/JavaFX-17-2AA887)](https://openjfx.io/)
+[![Maven](https://img.shields.io/badge/Maven-Build-C71A36?logo=apachemaven&logoColor=white)](https://maven.apache.org/)
+[![Persistence](https://img.shields.io/badge/Persistence-JSON-6E56CF)](#architecture)
+[![Verification](https://img.shields.io/badge/Build_%26_Login-Verified-0072B2)](#verification)
+
+[Overview](#overview) · [Features](#features) · [Screenshots](#screenshots) · [Architecture](#architecture) · [Build and Run](#build-and-run) · [Verification](#verification)
+
+</div>
 
 ---
 
-## 🧩 Project Overview
+<a id="overview"></a>
+## 1. Overview
 
-**HoK‑IMS** is a desktop GUI system designed to help players and analysts manage player, hero, equipment, rune, team, and match data from *Honor of Kings* (HoK) for pre-match preparation and post-match review. Built with **Java 17** and **JavaFX**, it provides both **JSON** and **SQLite** persistence options and supports offline match simulation and recommendation logic.
+HoK IMS is an educational desktop application for organising *Honor of Kings* game data and experimenting with team composition, recommendations, and match outcomes. It separates FXML views and controllers from domain models, services, repositories, and JSON persistence.
 
----
+The application is offline and self-contained. Sample JSON data is included so the interface and business logic can be explored without an external database or game API.
 
-## ⚙️ Features
+> This is a coursework project for educational use. It is not affiliated with or endorsed by Tencent, and it does not provide live game data or production-grade security.
 
-| Module                    | Description                                                                   |
-| ------------------------- | ----------------------------------------------------------------------------- |
-| **User Interface**        | Multiple JavaFX scenes: login, dashboard, detail views                        |
-| **CRUD Operations**       | Full create/read/update/delete for Players, Heroes, Equipment, Teams, Matches |
-| **Analytics**             | Win-rate leaderboards, item usage trends, KDA graphs with <100ms UI latency   |
-| **Match Simulation**      | BO3 match predictions using simplified damage rules                           |
-| **Recommendation Engine** | Suggests heroes, equipment, and teams using logic-based scoring               |
-| **Extensibility**         | Clean MVC + service + DAO separation; ready for Spring Boot or cloud APIs     |
+## 2. Features
 
----
+| Module | Implementation |
+|---|---|
+| **Login and dashboard** | JavaFX login flow, role-aware application context, and navigation across management screens |
+| **Players and heroes** | Player statistics, hero details, levels, win rates, and associated records |
+| **Equipment and runes** | Stat bonuses, usage data, rune information, and management views |
+| **Teams** | Team membership, aggregate level and win-rate information, and hero selection |
+| **Matches** | Match records and turn-based combat experiments |
+| **Analytics** | Leaderboards and data-driven views built from the included records |
+| **Recommendations** | Logic-based hero, equipment, and team recommendations |
+| **Combat engine** | Turn-based units, status effects, combat reports, and match simulation |
+| **Settings and persistence** | Local JSON import/export and application settings |
 
-## 🛠️ Tech Stack & Architecture
+<a id="screenshots"></a>
+## 3. Screenshots
 
-### Languages & Libraries
+### Dashboard
 
-* Java 17 (required)
-* JavaFX 17 (UI framework)
-* Maven 3.9+ (build tool)
-* SQLite JDBC (optional)
-* Jackson (JSON I/O)
-* JUnit 5, TestFX, JaCoCo (testing & coverage)
-* PlantUML (UML diagrams)
+<img src="docs/assets/dashboard.jpg" alt="HoK IMS dashboard after a real admin login" width="100%">
 
-### Architecture Diagram
+### Login
 
-```
-View (FXML) ⇄ Controller ⇄ Service ⇄ DAO ⇄ Persistence (JSON / SQLite)
-```
+<div align="center">
+<img src="docs/assets/login.jpg" alt="HoK IMS JavaFX login screen" width="420">
+</div>
 
-* **SceneManager**: centralized scene switcher
-* **Domain Models**: Player, Hero, Equipment, Rune, Team, Match
-* **Service Layer**: MatchSimulator (enum singleton), RecommendationEngine (strategy pattern)
-* **Persistence Layer**: configurable DAO (JsonDao / SQLiteDao)
+Both screens were captured from the current Maven-built application. The dashboard screenshot followed a real login using the included demo account.
 
----
+<a id="architecture"></a>
+## 4. Architecture
 
-## 📁 Folder Structure
-
-```
-hok-ims/
-├── pom.xml
-├── README.md
-├── src/
-│   ├── main/
-│   │   ├── java/...               # JavaFX + business logic
-│   │   └── resources/
-│   │       ├── fxml/             # FXML UI layouts
-│   │       ├── css/              # Stylesheets
-│   │       └── images/           # GUI assets
-│   └── test/
-│       └── java/...              # Unit & GUI tests
-├── data/                         # Sample JSON files or SQLite DB
-├── lib/                          # Local JARs (e.g., jackson-datatype-jsr310)
+```text
+FXML views
+  ⇄ JavaFX controllers and SceneManager
+  ⇄ Services
+      ├── AnalyticsService
+      ├── RecommendationServiceImpl
+      ├── MatchSimulator and TurnBasedEngine
+      └── Player, Hero, and Team services
+  ⇄ Repositories and DataStore
+  ⇄ Jackson + JavaTimeModule
+  ⇄ Local JSON data
 ```
 
----
+**Stack:** Java 21, JavaFX 17, Maven, Jackson Databind, Jackson JSR-310, and Lombok. JUnit Jupiter is declared for future tests, but the repository currently contains no test sources.
 
-## 🚀 Getting Started
+## 5. Build and Run
 
-### Prerequisites
+### Requirements
 
-* JDK 17 ([Adoptium](https://adoptium.net))
-* Maven 3.9+
-
-### Build & Run
+- JDK 21 or newer
+- Maven 3.9+
 
 ```bash
-git clone https://github.com/your-org/hok-ims.git
-cd hok-ims
-mvn clean install
-```
-
-### Launch Application
-
-**Option 1: via Maven**
-
-```bash
+git clone https://github.com/Cjj040721/HoK-Information-Management-System.git
+cd HoK-Information-Management-System
+mvn clean package
 mvn javafx:run
 ```
 
-**Option 2: via executable JAR**
+All Java dependencies, including `jackson-datatype-jsr310`, are resolved through Maven. No manual JAR installation or IDE-specific library setup is required. The custom `src/resources` directory is included in the Maven resource configuration so FXML, CSS, and images are packaged correctly.
 
-```bash
-java -jar target/hok-ims-1.0.0.jar
+### Demo accounts
+
+| Username | Password | Role |
+|---|---|---|
+| `admin` | `admin123` | Admin |
+| `player` | `player123` | Player |
+
+These are public demo credentials for the included local data, not production accounts.
+
+<a id="verification"></a>
+## 6. Verification
+
+| Check | Result |
+|---|---|
+| Clean Maven package | **Passed**; 45 Java source files compiled |
+| JavaFX launch | Passed through `mvn javafx:run` |
+| Login workflow | `admin` / `admin123` accepted and the Dashboard opened |
+| Screenshot provenance | Login and Dashboard captured from that running application |
+| Automated tests | **No test sources present**; `mvn test` reports “No tests to run” |
+
+The current JDK also reports JavaFX dependency-model warnings, Lombok `sun.misc.Unsafe` deprecation warnings, and unchecked-operation notes in `AnalyticsController`. These are documented rather than described as a zero-warning build.
+
+Earlier documentation's SQLite, TestFX, JaCoCo, and numerical coverage claims did not match the repository and have been removed.
+
+## 7. Repository Structure
+
+```text
+HoK-Information-Management-System/
+├── src/
+│   ├── main/java/com/example/hokims/
+│   │   ├── combat/              # Turn-based engine, units, reports, and status effects
+│   │   ├── core/                # User context
+│   │   ├── dto/                 # Recommendation data transfer objects
+│   │   ├── model/               # Player, Hero, Equipment, Rune, Team, Match, and User
+│   │   ├── repository/          # DataStore and repositories
+│   │   ├── service/             # Analytics, recommendation, match, and domain services
+│   │   ├── ui/                  # JavaFX controllers and SceneManager
+│   │   └── util/                # Authentication and JSON data management
+│   └── resources/
+│       ├── fxml/                # Login, dashboard, management, and analytics views
+│       ├── css/                 # Interface styling
+│       └── images/              # Application artwork
+├── data/                        # Included JSON records and demo accounts
+├── docs/assets/                 # Real login and Dashboard screenshots
+├── pom.xml
+└── LICENSE
 ```
 
-> If JavaFX is not in your PATH, provide `--module-path` and `--add-modules` arguments.
+## 8. Licence and Acknowledgements
+
+Original project code is available under the [MIT Licence](LICENSE).
+
+Created as **Beijing Jiaotong University Java coursework (2025)**. *Honor of Kings* names, images, and game-related data are used for educational purposes only and remain the property of their respective owners.
 
 ---
 
-## 🐞 Running & Debugging
+<div align="center">
 
-| Task                | Command                |
-| ------------------- | ---------------------- |
-| Run Unit Tests      | `mvn test`             |
-| Generate Coverage   | `mvn jacoco:report`    |
-| Create Javadoc      | `mvn javadoc:javadoc`  |
-| Render UML Diagrams | `plantuml docs/*.puml` |
+**HoK IMS — Manage the data. Explore the composition. Simulate the match.**
 
----
+Java 21 + JavaFX + Maven + Jackson + JSON
 
-## ⚠️ Troubleshooting
-
-### 1. Scene Load & Resource Errors
-
-**Error:**
-
-```
-Failed to switch scene to: /fxml/login.fxml  
-java.lang.IllegalStateException: Location is not set.
-```
-
-**Solution:**
-
-* In IntelliJ IDEA:
-  Right-click `src/main/resources` → **Mark Directory as → Resources Root**
-
-![resources\_solution.png](resources_solution.png)
-
----
-
-### 2. Local JAR Dependency Issue
-
-**Problem:**
-`ClassNotFoundException` due to unlinked `jackson-datatype-jsr310-2.17.0.jar`
-
-**Fix in IntelliJ:**
-
-1. Right-click the JAR file under `lib/`
-2. Choose **Add as Library...**
-
-![library\_dependency.png](library_dependency.png)
-
----
-
-## ✅ Testing & QA
-
-| Layer                  | Coverage           | Tools Used   |
-| ---------------------- | ------------------ | ------------ |
-| DAO (JSON/SQLite)      | 92%                | JaCoCo       |
-| Services (Match, Recs) | 87%                | JUnit 5, JMH |
-| UI (JavaFX)            | Manual + Automated | TestFX       |
-
-> Major bugs have been resolved, including:
->
-> * SQL driver issues
-> * JSON null-pointer exceptions
-> * Thread safety in `MatchSimulator`
-> * UI rendering glitches
-
----
-
-## 🤝 Contributing
-
-1. Fork the repo and clone locally
-2. Use a feature branch: `feature/your-feature`
-3. Format your code:
-
-   ```bash
-   mvn spotless:apply
-   ```
-4. Add or update tests as needed
-5. Submit a Pull Request (PR) with a clear description
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License**.
-See the [LICENSE](LICENSE) file for full details.
-
----
-
-## 🙏 Acknowledgments
-
-* **Beijing Jiaotong University** – Java Coursework (2025)
-* *Honor of Kings* game data used **for educational purposes only**
-* Thanks to all contributors and testers of **v1.0.0**
-
----
+</div>
